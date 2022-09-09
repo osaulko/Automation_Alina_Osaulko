@@ -26,8 +26,6 @@ public class Task_6 {
         getWebDriver().findElement(By.id("user-name")).sendKeys("standard_user");
         getWebDriver().findElement(By.id("password")).sendKeys("secret_sauce");
         getWebDriver().findElement(By.xpath("//input[@data-test='login-button']")).click();
-        //getWebDriver().findElement(By.id("login-button")).sendKeys(Keys.ENTER);
-        //getWebDriver().findElement(By.id("add-to-cart-sauce-labs-backpack")).sendKeys(Keys.ENTER);
         getWebDriver().findElement(By.xpath("//*[@class='inventory_item_name'and text()='Sauce Labs Backpack']//ancestor::div[@class='inventory_item']//button")).click();
         getWebDriver().findElement(By.xpath("//div[contains(@class, 'shopping_cart_container')]//span[@class ='shopping_cart_badge']")).click();
         List<String> actualData = ActualData();
@@ -46,7 +44,6 @@ public class Task_6 {
     private List<String> ActualData() {
         List<String> actualData = new ArrayList<>();
         List<WebElement> result = getWebDriver().findElements(By.cssSelector("div a div"));
-        //List<WebElement> result = getWebDriver().findElements(By.xpath("//div[contains(@class, 'cart_item_label')]//div[@class ='inventory_item_name']"));
         List<WebElement> result1 = getWebDriver().findElements(By.xpath("//div[contains(@class, 'item_pricebar')]//div[@class ='inventory_item_price']"));
         result.forEach(webElement -> {
             actualData.add(webElement.getText());
