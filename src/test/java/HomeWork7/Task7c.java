@@ -33,6 +33,8 @@ public class Task7c extends BaseTest {
         String cartProductCost = basketPage.getProductCost(productName);
         Assert.assertEquals(productCost, cartProductCost);
         Assert.assertEquals(basketPage.enterCartQuantity(productName), "1");
-        basketPage.clickRemove();
+        basketPage
+                .clickRemove(productName)
+                .checkThatRemoveBtnNotExist();
     }
 };
