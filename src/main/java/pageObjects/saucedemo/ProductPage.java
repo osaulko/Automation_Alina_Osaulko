@@ -8,7 +8,6 @@ import pageObjects.baseObjects.BasePage;
 import static driver.SimpleDriver.getWebDriver;
 
 public class ProductPage extends BasePage {
-
     private final By title = By.xpath("//span[@class='title']");
 
     private WebElement getElementProduct(String productName) {

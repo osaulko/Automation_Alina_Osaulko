@@ -8,7 +8,6 @@ public class DynamicLoadingPage extends BasePage {
 
     private By startBtn = By.id("start");
     private By loading = By.id("loading");
-    private By finish = By.id("finish");
 
     private By getByLink(String textLink) {
         return By.partialLinkText(textLink);

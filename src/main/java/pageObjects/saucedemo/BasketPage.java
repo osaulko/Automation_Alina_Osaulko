@@ -8,10 +8,21 @@ import pageObjects.baseObjects.BasePage;
 import static driver.SimpleDriver.getWebDriver;
 
 public class BasketPage extends BasePage {
-    private final By removeBtn = By.id("remove-sauce-labs-onesie");
+
+    private final By removeBtn = By.cssSelector("[class='btn btn_secondary btn_small cart_button']");
+
+    private final By checkoutBtn = By.cssSelector("[class='btn btn_action btn_medium checkout_button']");
 
     private WebElement getElementCartItem(String productName) {
         return getWebDriver().findElement(By.xpath("//*[@class = 'inventory_item_name' and text() = '" + productName + "']//ancestor::div[@class='cart_item']"));
+    }
+
+    private WebElement getDeleteCartItem(String productName) {
+        return getElementCartItem(productName).findElement(By.tagName("button"));
+    }
+
+    private WebElement getCheckout(String productName){
+        return getElementCartItem(productName).findElement(By.id("checkout"));
     }
 
     private WebElement getElementProductCost(String productName) {
@@ -30,14 +41,23 @@ public class BasketPage extends BasePage {
         return getText(getElementCartQuantity(productName));
     }
 
-    public WebElement removeBtn() {
-        wait.until(ExpectedConditions.invisibilityOf(removeBtn()));
-        return (WebElement) this;
+    public BasketPage checkThatRemoveBtnNotExist() {
+        wait.until(ExpectedConditions.invisibilityOfElementLocated(removeBtn));
+        return  this;
     }
 
-    public WebElement clickRemove() {
-        click(removeBtn);
-        return (WebElement) this;
+    public BasketPage clickRemove(String productName) {
+        click(getDeleteCartItem(productName));
+        return this;
     }
 
+    public BasketPage checkCheckoutButton() {
+        wait.until(ExpectedConditions.invisibilityOfElementLocated(checkoutBtn));
+        return  this;
+    }
+
+    public BasketPage clickCheckout(String productName){
+        click(checkoutBtn);
+        return this;
+    }
 }
