@@ -6,14 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="2d046004-5571-46ff-a576-a41af063598f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/driver/SimpleDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/driver/SimpleDriver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pageObjects/herokuapp/DynamicLoadingPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageObjects/herokuapp/DynamicLoadingPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pageObjects/herokuapp/NavigationItems.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pageObjects/saucedemo/BasketPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageObjects/saucedemo/BasketPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pageObjects/saucedemo/ProductPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageObjects/saucedemo/ProductPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/driver/SimpleDriver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/driver/SimpleDriver.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pageObjects/saucedemo/CheckoutPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pageObjects/saucedemo/CheckoutPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/HomeWork7/Task7c.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/HomeWork7/Task7c.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pageObjects/herokuapp/DynamicControls_Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageObjects/herokuapp/DynamicControls_Page.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/HomeWork8/DynamicControls_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/HomeWork8/DynamicControls_Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +63,7 @@
       <recent name="C:\Users\hugo\Desktop\проекты\Automation_Alina_Osaulko\src\test\java\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Lecture8_2.dynamicLoading_Test">
+  <component name="RunManager" selected="TestNG.DynamicControls_Test">
     <configuration name="ContextMenu_Test (1)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Automation_Alina_Osaulko" />
       <extension name="coverage">
@@ -87,28 +81,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ContextMenu_Test" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="DynamicControls_Test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Automation_Alina_Osaulko" />
-      <shortenClasspath name="NONE" />
-      <useClassPathOnly />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="HomeWork8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SUITE_NAME" value="" />
       <option name="PACKAGE_NAME" value="HomeWork8" />
-      <option name="MAIN_CLASS_NAME" value="HomeWork8.ContextMenu_Test" />
-      <option name="GROUP_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="HomeWork8.DynamicControls_Test" />
       <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-Dwebdriver.chrome.driver=src/test/java/resources/chromedriver.exe" />
-      <option name="PARAMETERS" value="" />
-      <option name="OUTPUT_DIRECTORY" value="" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <option name="PROPERTIES_FILE" value="" />
       <properties />
       <listeners />
       <method v="2">
@@ -158,23 +141,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lecture8_1 (1)" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Automation_Alina_Osaulko" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lecture_8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Lecture_8" />
-      <option name="MAIN_CLASS_NAME" value="Lecture_8.Lecture8_1" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Lecture8_2" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Automation_Alina_Osaulko" />
       <extension name="coverage">
@@ -210,22 +176,40 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lecture8_2.frame_Test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Automation_Alina_Osaulko" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lecture_8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Lecture_8" />
+      <option name="MAIN_CLASS_NAME" value="Lecture_8.Lecture8_2" />
+      <option name="METHOD_NAME" value="frame_Test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="TestNG.Lecture4_1" />
       <item itemvalue="TestNG.Lecture4_2" />
+      <item itemvalue="TestNG.DynamicControls_Test" />
+      <item itemvalue="TestNG.Lecture8_2.frame_Test" />
       <item itemvalue="TestNG.ContextMenu_Test (1)" />
       <item itemvalue="TestNG.Lecture8_2.dynamicLoading_Test" />
-      <item itemvalue="TestNG.ContextMenu_Test" />
-      <item itemvalue="TestNG.Lecture8_1 (1)" />
       <item itemvalue="TestNG.Lecture8_2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.DynamicControls_Test" />
+        <item itemvalue="TestNG.Lecture8_2.frame_Test" />
+        <item itemvalue="TestNG.Lecture8_2" />
         <item itemvalue="TestNG.Lecture8_2.dynamicLoading_Test" />
         <item itemvalue="TestNG.ContextMenu_Test (1)" />
-        <item itemvalue="TestNG.ContextMenu_Test" />
-        <item itemvalue="TestNG.Lecture8_2" />
-        <item itemvalue="TestNG.Lecture8_1 (1)" />
       </list>
     </recent_temporary>
   </component>
