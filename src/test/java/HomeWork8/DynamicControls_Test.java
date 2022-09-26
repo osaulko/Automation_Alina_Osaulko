@@ -24,9 +24,11 @@ public class DynamicControls_Test extends BaseTest {
         dynamicControls_page.clickOnCheckbox();
         dynamicControls_page.clickOnRemove();
         dynamicControls_page.itsGone();
-        dynamicControls_page.clickOnEnable()
+        dynamicControls_page.checkboxNotFound();
+        dynamicControls_page.inputString()
+                .fieldDisabled()
+                .clickOnEnable()
                 .disableMassege();
-        dynamicControls_page.inputString();
-
+        dynamicControls_page.fieldEnable();
     }
 }

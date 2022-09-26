@@ -23,7 +23,17 @@ public class DynamicControls_Page extends BasePage {
     }
 
     public DynamicControls_Page inputString() {
-        driver.switchTo().frame(driver.findElement(input));
+        driver.findElement(input);
+        return this;
+    }
+
+    public DynamicControls_Page checkboxNotFound(){
+        wait.until(ExpectedConditions.invisibilityOfElementLocated(checkbox));
+        return this;
+    }
+
+    public DynamicControls_Page fieldDisabled(){
+        wait.until(ExpectedConditions.elementSelectionStateToBe(input, Boolean.parseBoolean("disabled")));
         return this;
     }
 
@@ -37,9 +47,13 @@ public class DynamicControls_Page extends BasePage {
         return getText(goneString);
     }
 
+    public DynamicControls_Page fieldEnable(){
+        wait.until(ExpectedConditions.elementSelectionStateToBe(input, Boolean.parseBoolean("enabled!")));
+        return this;
+    }
+
     public String itsGone() {
         wait.until(ExpectedConditions.textToBe(goneString,"It's gone!"));
         return getText(goneString);
     }
-
 }

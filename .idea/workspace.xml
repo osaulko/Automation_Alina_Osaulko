@@ -6,7 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="2d046004-5571-46ff-a576-a41af063598f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pageObjects/baseObjects/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageObjects/baseObjects/BasePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pageObjects/baseObjects/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageObjects/baseObjects/BaseTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pageObjects/herokuapp/DynamicControls_Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageObjects/herokuapp/DynamicControls_Page.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pageObjects/herokuapp/FileUploadPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageObjects/herokuapp/FileUploadPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pageObjects/herokuapp/NavigationItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageObjects/herokuapp/NavigationItems.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/HomeWork8/DynamicControls_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/HomeWork8/DynamicControls_Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
