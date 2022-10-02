@@ -6,10 +6,13 @@
   <component name="ChangeListManager">
     <list default="true" id="2d046004-5571-46ff-a576-a41af063598f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pageObjects/herokuapp/FileUploadPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pageObjects/herokuapp/FramesPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageObjects/herokuapp/FramesPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pageObjects/herokuapp/NavigationItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageObjects/herokuapp/NavigationItems.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/HomeWork8/FileUpload_Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pageObjects/herokuapp/FileUploadPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageObjects/herokuapp/FileUploadPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/HomeWork7/Task7d.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/HomeWork7/Task7d.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/HomeWork8/FileUpload_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/HomeWork8/FileUpload_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pageObjects/herokuapp/FileUploadPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pageObjects/herokuapp/FileUploadPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/HomeWork7/Task7d.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/HomeWork7/Task7d.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/HomeWork8/FileUpload_Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/HomeWork8/FileUpload_Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/HomeWork8/Frames_Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/HomeWork8/Frames_Test.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +68,7 @@
       <recent name="C:\Users\hugo\Desktop\проекты\Automation_Alina_Osaulko\src\test\java\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Frames_Test">
+  <component name="RunManager" selected="TestNG.FileUpload_Test">
     <configuration name="DynamicControls_Test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Automation_Alina_Osaulko" />
       <extension name="coverage">
@@ -206,8 +209,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.Frames_Test" />
         <item itemvalue="TestNG.FileUpload_Test" />
+        <item itemvalue="TestNG.Frames_Test" />
         <item itemvalue="TestNG.DynamicControls_Test" />
         <item itemvalue="TestNG.Lecture8_2.frame_Test" />
         <item itemvalue="TestNG.Lecture8_2" />

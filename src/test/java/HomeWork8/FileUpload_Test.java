@@ -19,7 +19,7 @@ public class FileUpload_Test extends BaseTest {
     public void FileUpload_Test() {
         new NavigationPage()
                 .navigateTo(NavigationItems.FILE_UPLOAD);
-        new FileUploadPage()
-                .clickUpload().click("Без названия");
+        FileUploadPage fileUploadPage = new FileUploadPage();
+        fileUploadPage.addElement().nameElement();
     }
 }

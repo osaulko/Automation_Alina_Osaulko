@@ -42,7 +42,6 @@ public class Task7d extends BaseTest {
         CheckoutInformationPage checkoutInformationPage = new CheckoutInformationPage();
         CheckoutInformationPage.verifyPageUri();
         WebElement elementProductName = CheckoutInformationPage.getElementProductName(productName);
-        //Assert.assertEquals(elementProductName, productName);
         checkoutInformationPage
                 .clickFinish()
                 .checkFinishButton();
