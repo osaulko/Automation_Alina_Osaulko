@@ -14,7 +14,7 @@ public class FileUploadPage extends BasePage {
     }
 
     public FileUploadPage nameElement() {
-        wait.until(ExpectedConditions.textToBePresentInElementValue(name,"Без названия"));
+        wait.until(ExpectedConditions.textToBePresentInElementValue(name,"Без названия.png"));
         return this;
     }
 }

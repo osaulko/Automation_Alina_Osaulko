@@ -9,9 +9,10 @@ import static driver.SimpleDriver.getWebDriver;
 
 public class ProductPage extends BasePage {
     private final By title = By.xpath("//span[@class='title']");
+    private String productCost;
 
     private WebElement getElementProduct(String productName) {
-        return getWebDriver().findElement(By.xpath("//*[@class = 'inventory_item_name' and text() = '" + productName + "']//ancestor::div[@class='inventory_item']"));
+        return getWebDriver().findElement(By.xpath("//*[@class = 'inventory_item_name' and text() = '" + productName +"']//ancestor::div[@class='inventory_item']"));
     }
 
     private WebElement getProductPrice(String productName) {

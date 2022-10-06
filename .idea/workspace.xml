@@ -5,14 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d046004-5571-46ff-a576-a41af063598f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/testNgUtils/Retry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/HomeWork9/Task9_1Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/HomeWork9/Task9_2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/HomeWork9/Task9_3Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation_Alina_Osaulko.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Automation_Alina_Osaulko.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/driver/SimpleDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/driver/SimpleDriver.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pageObjects/herokuapp/FileUploadPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageObjects/herokuapp/FileUploadPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/HomeWork7/Task7d.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/HomeWork7/Task7d.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/HomeWork8/FileUpload_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/HomeWork8/FileUpload_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pageObjects/saucedemo/ProductPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageObjects/saucedemo/ProductPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/driver/SimpleDriver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/driver/SimpleDriver.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/pageObjects/herokuapp/FileUploadPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pageObjects/herokuapp/FileUploadPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/HomeWork7/Task7d.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/HomeWork7/Task7d.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/HomeWork8/FileUpload_Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/HomeWork8/FileUpload_Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/HomeWork8/Frames_Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/HomeWork8/Frames_Test.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +59,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/hugo/Desktop/проекты/Automation_Alina_Osaulko/src/test/java/resources&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/hugo/Desktop/проекты/Automation_Alina_Osaulko/src/test/java/resources/Lecture_9.xml&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
@@ -68,58 +71,7 @@
       <recent name="C:\Users\hugo\Desktop\проекты\Automation_Alina_Osaulko\src\test\java\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.FileUpload_Test">
-    <configuration name="DynamicControls_Test" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Automation_Alina_Osaulko" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HomeWork8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="HomeWork8" />
-      <option name="MAIN_CLASS_NAME" value="HomeWork8.DynamicControls_Test" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FileUpload_Test" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Automation_Alina_Osaulko" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HomeWork8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="HomeWork8" />
-      <option name="MAIN_CLASS_NAME" value="HomeWork8.FileUpload_Test" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Frames_Test" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Automation_Alina_Osaulko" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HomeWork8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="HomeWork8" />
-      <option name="MAIN_CLASS_NAME" value="HomeWork8.Frames_Test" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.Task9_3Test">
     <configuration name="Lecture4_1" type="TestNG">
       <module name="Automation_Alina_Osaulko" />
       <shortenClasspath name="NONE" />
@@ -163,16 +115,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lecture8_2" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Lecture9" type="TestNG">
+      <module name="Automation_Alina_Osaulko" />
+      <shortenClasspath name="NONE" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/resources/Lecture_9.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lecture9_2Test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Automation_Alina_Osaulko" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lecture_8.*" />
+          <option name="PATTERN" value="Lecture9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Lecture_8" />
-      <option name="MAIN_CLASS_NAME" value="Lecture_8.Lecture8_2" />
+      <option name="PACKAGE_NAME" value="Lecture9" />
+      <option name="MAIN_CLASS_NAME" value="Lecture9.Lecture9_2Test" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -180,18 +150,68 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lecture8_2.frame_Test" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Lecture9_3Test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Automation_Alina_Osaulko" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lecture_8.*" />
+          <option name="PATTERN" value="Lecture9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Lecture_8" />
-      <option name="MAIN_CLASS_NAME" value="Lecture_8.Lecture8_2" />
-      <option name="METHOD_NAME" value="frame_Test" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PACKAGE_NAME" value="Lecture9" />
+      <option name="MAIN_CLASS_NAME" value="Lecture9.Lecture9_3Test" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task9_1Test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Automation_Alina_Osaulko" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="HomeWork9" />
+      <option name="MAIN_CLASS_NAME" value="HomeWork9.Task9_1Test" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task9_2Test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Automation_Alina_Osaulko" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="HomeWork9" />
+      <option name="MAIN_CLASS_NAME" value="HomeWork9.Task9_2Test" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task9_3Test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Automation_Alina_Osaulko" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HomeWork9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="HomeWork9" />
+      <option name="MAIN_CLASS_NAME" value="HomeWork9.Task9_3Test" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
@@ -201,19 +221,20 @@
     <list>
       <item itemvalue="TestNG.Lecture4_1" />
       <item itemvalue="TestNG.Lecture4_2" />
-      <item itemvalue="TestNG.FileUpload_Test" />
-      <item itemvalue="TestNG.Frames_Test" />
-      <item itemvalue="TestNG.DynamicControls_Test" />
-      <item itemvalue="TestNG.Lecture8_2.frame_Test" />
-      <item itemvalue="TestNG.Lecture8_2" />
+      <item itemvalue="TestNG.Lecture9" />
+      <item itemvalue="TestNG.Task9_1Test" />
+      <item itemvalue="TestNG.Task9_2Test" />
+      <item itemvalue="TestNG.Task9_3Test" />
+      <item itemvalue="TestNG.Lecture9_2Test" />
+      <item itemvalue="TestNG.Lecture9_3Test" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.FileUpload_Test" />
-        <item itemvalue="TestNG.Frames_Test" />
-        <item itemvalue="TestNG.DynamicControls_Test" />
-        <item itemvalue="TestNG.Lecture8_2.frame_Test" />
-        <item itemvalue="TestNG.Lecture8_2" />
+        <item itemvalue="TestNG.Task9_3Test" />
+        <item itemvalue="TestNG.Task9_2Test" />
+        <item itemvalue="TestNG.Task9_1Test" />
+        <item itemvalue="TestNG.Lecture9_3Test" />
+        <item itemvalue="TestNG.Lecture9_2Test" />
       </list>
     </recent_temporary>
   </component>
