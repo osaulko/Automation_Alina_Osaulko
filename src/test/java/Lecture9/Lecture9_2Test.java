@@ -9,7 +9,7 @@ public class Lecture9_2Test {
     int count = 1;
     int timeout = 4;
 
-    @Test(enabled = false, priority = 1)//enabled = false игнорирование теста
+    @Test(enabled = false, priority = 1)
     public void test1() {
         System.out.println("Hello i'am test 1");
     }
@@ -19,13 +19,13 @@ public class Lecture9_2Test {
         System.out.println("Hello i'am test 2");
     }
 
-    @Test(timeOut = 1000, description = "Test 3 from lecture 9", priority = 3)//expectedException={название.class} - задаём название ошибки для исключения
+    @Test(timeOut = 1000, description = "Test 3 from lecture 9", priority = 3)
     public void test3() {
         pause(2);
         System.out.println("Hello i'am test 3");
     }
 
-    @Test(dependsOnMethods = "test3", priority = 4)//dependsOnMethods = "test3" зависит от теста 3 . если 3 не работает , не запускается 4
+    @Test(dependsOnMethods = "test3", priority = 4)
     public void test4() {
         System.out.println("Hello i'am test 4");
     }
@@ -35,10 +35,10 @@ public class Lecture9_2Test {
         System.out.println("Hello i'am  @BeforeMethod 5 and this is my repeat #" + count);
     }
 
-    @Test(invocationCount = 5, threadPoolSize = 5, priority = 5)//invocationCount - повторить блок 5 раз, threadPoolSize = 5 - выполнение в несколько потоков(параллельно)
+    @Test(invocationCount = 5, threadPoolSize = 5, priority = 5)
     public void test5() {
         pause(1);
-        System.out.println("Hello i'am test 5 and this is my repeat #" + count++);//count++ - счётчик
+        System.out.println("Hello i'am test 5 and this is my repeat #" + count++);
     }
 
     @AfterMethod

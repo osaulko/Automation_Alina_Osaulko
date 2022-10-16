@@ -5,7 +5,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d046004-5571-46ff-a576-a41af063598f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/driver/UIElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjects/herokuapp/DropdownPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjects/herokuapp/SortableDataTablesPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/testNgUtils/ExtentReportListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/testNgUtils/Listener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Lecture10/Lecture10Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/Lecture_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/Lecture_8.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Automation_Alina_Osaulko.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Automation_Alina_Osaulko.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pageObjects/baseObjects/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageObjects/baseObjects/BasePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pageObjects/herokuapp/DynamicLoadingPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageObjects/herokuapp/DynamicLoadingPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pageObjects/herokuapp/NavigationItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageObjects/herokuapp/NavigationItems.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Lecture9/Lecture9_2Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Lecture9/Lecture9_2Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/resources/Lecture_9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/Lecture_9.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/resources/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pageObjects/baseObjects/BasePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pageObjects/baseObjects/BasePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pageObjects/herokuapp/DynamicLoadingPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pageObjects/herokuapp/DynamicLoadingPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pageObjects/herokuapp/FileUploadPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pageObjects/herokuapp/FileUploadPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pageObjects/herokuapp/NavigationItems.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pageObjects/herokuapp/NavigationItems.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2022-10-11T20-11-07_537-jvmRun1.dump" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2022-10-11T20-13-56_827-jvmRun1.dump" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Lecture5/Lecture5_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Lecture5/Lecture5_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Lecture5/Lecture5_2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Lecture5/Lecture5_2$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Lecture5/Lecture5_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Lecture5/Lecture5_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Task_5$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Task_5$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Task_5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Task_5.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,24 +76,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/hugo/Desktop/проекты/Automation_Alina_Osaulko/src/test/java/resources/Lecture_9.xml",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/hugo/Desktop/проекты/Automation_Alina_Osaulko/src/test/java/resources/Lecture_9.xml&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\hugo\Desktop\проекты\Automation_Alina_Osaulko\src\test\java\resources" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hugo\Desktop\проекты\Automation_Alina_Osaulko\src\test" />
+    </key>
   </component>
-  <component name="RunManager" selected="TestNG.Lecture4_1">
+  <component name="RunManager" selected="TestNG.Lecture8_2">
     <configuration name="Lecture4_1" type="TestNG">
       <module name="Automation_Alina_Osaulko" />
       <shortenClasspath name="NONE" />
@@ -106,6 +140,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lecture8_2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Automation_Alina_Osaulko" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lecture_8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Lecture_8" />
+      <option name="MAIN_CLASS_NAME" value="Lecture_8.Lecture8_2" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Lecture9" type="TestNG">
       <module name="Automation_Alina_Osaulko" />
       <shortenClasspath name="NONE" />
@@ -124,7 +175,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lecture9_3Test" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Lecture9_1Test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Automation_Alina_Osaulko" />
       <extension name="coverage">
         <pattern>
@@ -133,24 +184,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="Lecture9" />
-      <option name="MAIN_CLASS_NAME" value="Lecture9.Lecture9_3Test" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task9_2Test" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Automation_Alina_Osaulko" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HomeWork9.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="HomeWork9" />
-      <option name="MAIN_CLASS_NAME" value="HomeWork9.Task9_2Test" />
+      <option name="MAIN_CLASS_NAME" value="Lecture9.Lecture9_1Test" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -217,19 +251,19 @@
       <item itemvalue="TestNG.Lecture4_1" />
       <item itemvalue="TestNG.Lecture4_2" />
       <item itemvalue="TestNG.Lecture9" />
+      <item itemvalue="TestNG.Lecture8_2" />
+      <item itemvalue="TestNG.Lecture9_1Test" />
       <item itemvalue="TestNG.Task_6 (1)" />
       <item itemvalue="TestNG.Task_6" />
-      <item itemvalue="TestNG.Task9_2Test" />
       <item itemvalue="TestNG.Task9_3Test" />
-      <item itemvalue="TestNG.Lecture9_3Test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Lecture8_2" />
+        <item itemvalue="TestNG.Lecture9_1Test" />
         <item itemvalue="TestNG.Task_6 (1)" />
         <item itemvalue="TestNG.Task_6" />
         <item itemvalue="TestNG.Task9_3Test" />
-        <item itemvalue="TestNG.Task9_2Test" />
-        <item itemvalue="TestNG.Lecture9_3Test" />
       </list>
     </recent_temporary>
   </component>
