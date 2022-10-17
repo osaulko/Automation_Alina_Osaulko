@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 18, Failures: 1, Errors: 0, Skipped: 4, Time elapsed: 25.008 s <<< FAILURE! - in TestSuite
+test3(Lecture9.Lecture9_2Test)  Time elapsed: 0.967 s  <<< FAILURE!
+org.testng.internal.thread.ThreadTimeoutException: Method Lecture9.Lecture9_2Test.test3() didn't finish within the time-out 1000
+	at app//Lecture9.Lecture9_2Test.pause(Lecture9_2Test.java:58)
+	at app//Lecture9.Lecture9_2Test.test3(Lecture9_2Test.java:24)
+
