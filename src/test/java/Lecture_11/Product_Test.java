@@ -25,4 +25,5 @@ public class Product_Test extends BaseTest {
         if (steps.equals("0")) get(LoginSteps.class).login(properties.getProperty("username"), properties.getProperty("password"));
         get(ProductPage.class).verifyPageTitle();
     }
+
 }
