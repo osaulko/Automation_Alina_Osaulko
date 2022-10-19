@@ -27,12 +27,12 @@ public class DynamicControls_Page extends BasePage {
         return this;
     }
 
-    public DynamicControls_Page checkboxNotFound(){
+    public DynamicControls_Page checkboxNotFound() {
         wait.until(ExpectedConditions.invisibilityOfElementLocated(checkbox));
         return this;
     }
 
-    public DynamicControls_Page fieldDisabled(){
+    public DynamicControls_Page fieldDisabled() {
         wait.until(ExpectedConditions.elementSelectionStateToBe(input, Boolean.parseBoolean("disabled")));
         return this;
     }
@@ -43,17 +43,17 @@ public class DynamicControls_Page extends BasePage {
     }
 
     public String disableMassege() {
-        wait.until(ExpectedConditions.textToBe(goneString,"It's enabled!"));
+        wait.until(ExpectedConditions.textToBe(goneString, "It's enabled!"));
         return getText(goneString);
     }
 
-    public DynamicControls_Page fieldEnable(){
+    public DynamicControls_Page fieldEnable() {
         wait.until(ExpectedConditions.elementSelectionStateToBe(input, Boolean.parseBoolean("enabled!")));
         return this;
     }
 
     public String itsGone() {
-        wait.until(ExpectedConditions.textToBe(goneString,"It's gone!"));
+        wait.until(ExpectedConditions.textToBe(goneString, "It's gone!"));
         return getText(goneString);
     }
 }

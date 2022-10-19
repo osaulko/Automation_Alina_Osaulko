@@ -18,4 +18,5 @@ public enum NavigationItems {
 
     public String getItem() {
         return item;
-    }}
+    }
+}

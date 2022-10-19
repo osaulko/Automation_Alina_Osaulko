@@ -19,10 +19,11 @@ public class Task9_2Test extends BaseTest {
                 .open()
                 .enterUsername("standard_user")
                 .enterPassword("secret_sauce")
-                .clickLogin();;
+                .clickLogin();
+        ;
     }
 
-    @Test(invocationCount = 5 )
+    @Test(invocationCount = 5)
     public void invocationCountTask() {
         new ProductPage().addProductToBasket("Sauce Labs Bike Light");
         HeaderPage headerPage = new HeaderPage();

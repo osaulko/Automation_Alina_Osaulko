@@ -11,21 +11,22 @@ public class CheckoutPage extends BasePage {
     private final By postalcode = By.id("postal-code");
     private final By continueBtn = By.id("continue");
 
-    public CheckoutPage enterFirstName(String firstname){
+    public CheckoutPage enterFirstName(String firstname) {
         enter(this.firstname, firstname);
         return this;
     }
-    public CheckoutPage enterLastName(String lastname){
+
+    public CheckoutPage enterLastName(String lastname) {
         enter(this.lastname, lastname);
         return this;
     }
 
-    public CheckoutPage enterPostalCode(String postalcode){
+    public CheckoutPage enterPostalCode(String postalcode) {
         enter(this.postalcode, postalcode);
         return this;
     }
 
-    public CheckoutPage verifyThatCheckoutPageIsClosed(){
+    public CheckoutPage verifyThatCheckoutPageIsClosed() {
         wait.until(ExpectedConditions.invisibilityOfElementLocated(continueBtn));
         return this;
     }

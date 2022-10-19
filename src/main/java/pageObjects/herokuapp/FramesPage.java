@@ -10,6 +10,7 @@ public class FramesPage extends BasePage {
     private By textArea = By.id("tinymce");
     private By boldTxt = By.cssSelector("[aria-label='Bold']");
     private By textToCheck = By.id("tinymce");
+
     private By clickLink(String linkText) {
         return By.linkText(linkText);
     }
@@ -25,7 +26,7 @@ public class FramesPage extends BasePage {
     }
 
     public String checkMassege() {
-        wait.until(ExpectedConditions.textToBe(textToCheck,"Your content goes here."));
+        wait.until(ExpectedConditions.textToBe(textToCheck, "Your content goes here."));
         return getText(textToCheck);
     }
 

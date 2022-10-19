@@ -17,7 +17,7 @@ public class DynamicControls_Test extends BaseTest {
     }
 
     @Test
-    public void DynamicControls_Test(){
+    public void DynamicControls_Test() {
         new NavigationPage()
                 .navigateTo(DYNAMIC_CONTROLS);
         DynamicControls_Page dynamicControls_page = new DynamicControls_Page();

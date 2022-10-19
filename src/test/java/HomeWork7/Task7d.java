@@ -20,7 +20,7 @@ public class Task7d extends BaseTest {
 
     @Test
 
-    public void productTest(){
+    public void productTest() {
         String productName = "Sauce Labs Onesie";
         ProductPage productPage = new ProductPage();
         productPage.verifyPageTitle();

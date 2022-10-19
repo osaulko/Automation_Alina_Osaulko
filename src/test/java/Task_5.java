@@ -23,7 +23,7 @@ public class Task_5 {
 
 
     @Test
-    public void test1(){
+    public void test1() {
         getWebDriver().findElement(By.name("calc_roomwidth")).sendKeys(Keys.CONTROL + "a", Keys.DELETE);
         getWebDriver().findElement(By.name("calc_roomwidth")).sendKeys("5");
 
@@ -53,17 +53,18 @@ public class Task_5 {
         getWebDriver().findElement(By.cssSelector("[value='Рассчитать']")).click();
         List<String> actualData = ActualData();
         List<String> expectedData = new ArrayList<>() {{
-                add("Площадь укладки: 14.76 м2.");
-                add("Кол-во панелей: 203 шт.");
-                add("Кол-во упаковок: 21 шт.");
-                add("Стоимость: 9450 руб.");
-                add("Остатки: 7 шт.");
-                add("Отрезки: 18 шт.");
+            add("Площадь укладки: 14.76 м2.");
+            add("Кол-во панелей: 203 шт.");
+            add("Кол-во упаковок: 21 шт.");
+            add("Стоимость: 9450 руб.");
+            add("Остатки: 7 шт.");
+            add("Отрезки: 18 шт.");
         }};
 
-        Assert.assertEquals (actualData, expectedData);
+        Assert.assertEquals(actualData, expectedData);
 
     }
+
     @AfterTest
     public void postconditions() {
         getWebDriver().close();

@@ -11,10 +11,12 @@ public class HeaderPage extends BasketPage {
     public void clickBasketBtn() {
         click(basketBtn);
     }
+
     public void clickNavigationBtn() {
         click(navigationBtn);
     }
-    public void clickRemoveBtn(){
+
+    public void clickRemoveBtn() {
         click(removeBtn);
     }
 }

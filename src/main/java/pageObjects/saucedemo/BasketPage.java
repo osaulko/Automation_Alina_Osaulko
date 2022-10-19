@@ -21,7 +21,7 @@ public class BasketPage extends BasePage {
         return getElementCartItem(productName).findElement(By.tagName("button"));
     }
 
-    private WebElement getCheckout(String productName){
+    private WebElement getCheckout(String productName) {
         return getElementCartItem(productName).findElement(By.id("checkout"));
     }
 
@@ -29,7 +29,7 @@ public class BasketPage extends BasePage {
         return getElementCartItem(productName).findElement(By.className("inventory_item_price"));
     }
 
-    private WebElement getElementCartQuantity(String productName){
+    private WebElement getElementCartQuantity(String productName) {
         return getElementCartItem(productName).findElement(By.className("cart_quantity"));
     }
 
@@ -43,7 +43,7 @@ public class BasketPage extends BasePage {
 
     public BasketPage checkThatRemoveBtnNotExist() {
         wait.until(ExpectedConditions.invisibilityOfElementLocated(removeBtn));
-        return  this;
+        return this;
     }
 
     public BasketPage clickRemove(String productName) {
@@ -53,10 +53,10 @@ public class BasketPage extends BasePage {
 
     public BasketPage checkCheckoutButton() {
         wait.until(ExpectedConditions.invisibilityOfElementLocated(checkoutBtn));
-        return  this;
+        return this;
     }
 
-    public BasketPage clickCheckout(String productName){
+    public BasketPage clickCheckout(String productName) {
         click(checkoutBtn);
         return this;
     }

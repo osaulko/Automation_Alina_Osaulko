@@ -14,7 +14,6 @@ import java.util.List;
 import java.util.Properties;
 import java.util.stream.Collectors;
 
-
 import static driver.SimpleDriver.getWebDriver;
 import static java.lang.System.getProperties;
 

@@ -13,6 +13,7 @@ testNgUtils\ExtentReportListener.class
 pageObjects\baseObjects\BaseTest.class
 pageObjects\saucedemo\HeaderPage.class
 pageObjects\saucedemo\LoginPage.class
+testNgUtils\InvokedMethodListener.class
 pageObjects\herokuapp\FramesPage.class
 pageObjects\herokuapp\InfiniteScrollPage.class
 pageObjects\saucedemo\BasketPage.class

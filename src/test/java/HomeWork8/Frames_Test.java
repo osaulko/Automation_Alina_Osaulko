@@ -13,6 +13,7 @@ public class Frames_Test extends BaseTest {
         new NavigationPage()
                 .open();
     }
+
     @Test
     public void Frames_Test() {
         new NavigationPage()
@@ -21,5 +22,5 @@ public class Frames_Test extends BaseTest {
                 .clickFrameLink("iFrame")
                 .switchToFrame()
                 .checkMassege();
-}
+    }
 }

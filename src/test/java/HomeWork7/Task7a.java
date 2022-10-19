@@ -19,7 +19,7 @@ public class Task7a extends BaseTest {
     }
 
     @Test
-    public void loginTest1(){
+    public void loginTest1() {
         LoginPage loginPage1 = new LoginPage();
         loginPage1.open();
         loginPage1.enterUsername("problem_user");
@@ -30,7 +30,7 @@ public class Task7a extends BaseTest {
     }
 
     @Test
-    public void loginTest2(){
+    public void loginTest2() {
         LoginPage loginPage2 = new LoginPage();
         loginPage2.open();
         loginPage2.enterUsername("performance_glitch_user");

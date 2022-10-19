@@ -16,6 +16,7 @@ public class Listener implements ITestListener {
     public void onTestFailure(ITestResult result) {
         Reporter.log("Ohh... this test was failed => " + result.getName());
     }
+
     @Override
     public void onFinish(ITestContext context) {
         Reporter.log(context.getSuite().getXmlSuite().getTest());
@@ -25,4 +26,5 @@ public class Listener implements ITestListener {
     public void onTestSuccess(ITestResult result) {
         Reporter.log("Cool... this test was passed => " + result.getName());
     }
+
 }

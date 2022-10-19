@@ -21,7 +21,7 @@ public class Task_6 {
 
     @Test
 
-    public void test(){
+    public void test() {
 
         getWebDriver().findElement(By.id("user-name")).sendKeys("standard_user");
         getWebDriver().findElement(By.id("password")).sendKeys("secret_sauce");
@@ -33,11 +33,11 @@ public class Task_6 {
             add("Sauce Labs Backpack");
             add("$29.99");
         }};
-        Assert.assertEquals (actualData, expectedData);
+        Assert.assertEquals(actualData, expectedData);
     }
 
     @AfterTest
-        public void postconditions() {
+    public void postconditions() {
         getWebDriver().close();
     }
 
@@ -47,7 +47,7 @@ public class Task_6 {
         List<WebElement> result1 = getWebDriver().findElements(By.xpath("//div[contains(@class, 'item_pricebar')]//div[@class ='inventory_item_price']"));
         result.forEach(webElement -> {
             actualData.add(webElement.getText());
-        result1.forEach(webElement1 -> actualData.add(webElement1.getText()));
+            result1.forEach(webElement1 -> actualData.add(webElement1.getText()));
         });
         return actualData;
     }

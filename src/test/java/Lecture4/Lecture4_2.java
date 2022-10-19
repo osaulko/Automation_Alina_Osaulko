@@ -60,7 +60,7 @@ public class Lecture4_2 {
     }
 
     @AfterTest
-    public void postconditions(){
+    public void postconditions() {
         getWebDriver().close();
     }
 

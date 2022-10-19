@@ -20,8 +20,8 @@ public class Task9_3Test extends BaseTest {
         ;
     }
 
-    @Test (dataProvider = "products name")
-    public void dataProviderTask(String productName , String productCost) {
+    @Test(dataProvider = "products name")
+    public void dataProviderTask(String productName, String productCost) {
         new ProductPage().addProductToBasket(productName);
         HeaderPage headerPage = new HeaderPage();
         headerPage.clickBasketBtn();
