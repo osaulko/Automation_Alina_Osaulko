@@ -1,1 +1,16 @@
-{"uuid":"22792fad-0739-41e0-ae4c-02f5b1660d5e","name":"Lecture9.Lecture9_2Test","children":["92a2c6dc-72af-457a-b828-75227c82f991","03eb29fd-f7e9-4c35-ac16-45029bf31290","c7f6a0c0-5840-4e06-a39b-aa3cf99438cb","f993b8f9-74de-43fe-a567-82d9f40f92ab","72f858fc-2282-463c-a3d9-76832908ac54","78295358-d340-412c-a137-c990dc1f7d65"],"befores":[],"afters":[],"start":1665936614175,"stop":1665936621133}
+{
+  "uuid": "22792fad-0739-41e0-ae4c-02f5b1660d5e",
+  "name": "Lecture9.Lecture9_2Test",
+  "children": [
+    "92a2c6dc-72af-457a-b828-75227c82f991",
+    "03eb29fd-f7e9-4c35-ac16-45029bf31290",
+    "c7f6a0c0-5840-4e06-a39b-aa3cf99438cb",
+    "f993b8f9-74de-43fe-a567-82d9f40f92ab",
+    "72f858fc-2282-463c-a3d9-76832908ac54",
+    "78295358-d340-412c-a137-c990dc1f7d65"
+  ],
+  "befores": [],
+  "afters": [],
+  "start": 1665936614175,
+  "stop": 1665936621133
+}

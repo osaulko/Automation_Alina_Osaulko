@@ -7,11 +7,11 @@ import pageObjects.saucedemo.LoginPage;
 public class Login_Test extends BaseTest {
 
     @Test
-    public void login() {
-        get(LoginPage.class)
+    public void login(String username, String password) {
+        new LoginPage()
                 .open()
-                .enterUsername()
-                .enterPassword()
+                .enterUsername(username)
+                .enterPassword(password)
                 .clickLogin()
                 .verifyThatLoginPageIsClosed();
     }

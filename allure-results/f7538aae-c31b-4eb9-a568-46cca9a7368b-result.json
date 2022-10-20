@@ -1,1 +1,78 @@
-{"uuid":"f7538aae-c31b-4eb9-a568-46cca9a7368b","historyId":"fa85d685a7f729d5e1ef019d0a5f0438","fullName":"Lecture9.Lecture9_3Test.login","labels":[{"name":"package","value":"Lecture9.Lecture9_3Test"},{"name":"testClass","value":"Lecture9.Lecture9_3Test"},{"name":"testMethod","value":"login"},{"name":"parentSuite","value":"Lecture 9"},{"name":"suite","value":"Lecture 9 test set 1.4"},{"name":"subSuite","value":"Lecture9.Lecture9_3Test"},{"name":"host","value":"hugo-pc"},{"name":"thread","value":"7884@hugo-pc.TestNG-tests-4(21)"},{"name":"framework","value":"testng"},{"name":"language","value":"java"}],"links":[],"name":"login","status":"passed","statusDetails":{"known":false,"muted":false,"flaky":false},"stage":"finished","steps":[],"attachments":[],"parameters":[{"name":"user","value":"test"},{"name":"url","value":"https://www.saucedemo.com/"},{"name":"arg1","value":"secret_sauce"},{"name":"arg0","value":"performance_glitch_user"}],"start":1665679703817,"stop":1665679709331}
+{
+  "uuid": "f7538aae-c31b-4eb9-a568-46cca9a7368b",
+  "historyId": "fa85d685a7f729d5e1ef019d0a5f0438",
+  "fullName": "Lecture9.Lecture9_3Test.login",
+  "labels": [
+    {
+      "name": "package",
+      "value": "Lecture9.Lecture9_3Test"
+    },
+    {
+      "name": "testClass",
+      "value": "Lecture9.Lecture9_3Test"
+    },
+    {
+      "name": "testMethod",
+      "value": "login"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Lecture 9"
+    },
+    {
+      "name": "suite",
+      "value": "Lecture 9 test set 1.4"
+    },
+    {
+      "name": "subSuite",
+      "value": "Lecture9.Lecture9_3Test"
+    },
+    {
+      "name": "host",
+      "value": "hugo-pc"
+    },
+    {
+      "name": "thread",
+      "value": "7884@hugo-pc.TestNG-tests-4(21)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "login",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [
+    {
+      "name": "user",
+      "value": "test"
+    },
+    {
+      "name": "url",
+      "value": "https://www.saucedemo.com/"
+    },
+    {
+      "name": "arg1",
+      "value": "secret_sauce"
+    },
+    {
+      "name": "arg0",
+      "value": "performance_glitch_user"
+    }
+  ],
+  "start": 1665679703817,
+  "stop": 1665679709331
+}

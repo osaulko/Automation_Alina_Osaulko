@@ -1,1 +1,70 @@
-{"uuid":"39281380-0443-4cf8-85b4-52d84a353c74","historyId":"cfb8d7912afd1adc6177abffc9e19e09","fullName":"HomeWork9.Task9_3Test.dataProviderTask","labels":[{"name":"package","value":"HomeWork9.Task9_3Test"},{"name":"testClass","value":"HomeWork9.Task9_3Test"},{"name":"testMethod","value":"dataProviderTask"},{"name":"parentSuite","value":"Default Suite"},{"name":"suite","value":"Automation_Alina_Osaulko"},{"name":"subSuite","value":"HomeWork9.Task9_3Test"},{"name":"host","value":"hugo-pc"},{"name":"thread","value":"8956@hugo-pc.main(1)"},{"name":"framework","value":"testng"},{"name":"language","value":"java"}],"links":[],"name":"dataProviderTask","status":"passed","statusDetails":{"known":false,"muted":false,"flaky":false},"stage":"finished","steps":[],"attachments":[],"parameters":[{"name":"arg1","value":"$9.99"},{"name":"arg0","value":"Sauce Labs Bike Light"}],"start":1665514119883,"stop":1665514120674}
+{
+  "uuid": "39281380-0443-4cf8-85b4-52d84a353c74",
+  "historyId": "cfb8d7912afd1adc6177abffc9e19e09",
+  "fullName": "HomeWork9.Task9_3Test.dataProviderTask",
+  "labels": [
+    {
+      "name": "package",
+      "value": "HomeWork9.Task9_3Test"
+    },
+    {
+      "name": "testClass",
+      "value": "HomeWork9.Task9_3Test"
+    },
+    {
+      "name": "testMethod",
+      "value": "dataProviderTask"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default Suite"
+    },
+    {
+      "name": "suite",
+      "value": "Automation_Alina_Osaulko"
+    },
+    {
+      "name": "subSuite",
+      "value": "HomeWork9.Task9_3Test"
+    },
+    {
+      "name": "host",
+      "value": "hugo-pc"
+    },
+    {
+      "name": "thread",
+      "value": "8956@hugo-pc.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "dataProviderTask",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [
+    {
+      "name": "arg1",
+      "value": "$9.99"
+    },
+    {
+      "name": "arg0",
+      "value": "Sauce Labs Bike Light"
+    }
+  ],
+  "start": 1665514119883,
+  "stop": 1665514120674
+}

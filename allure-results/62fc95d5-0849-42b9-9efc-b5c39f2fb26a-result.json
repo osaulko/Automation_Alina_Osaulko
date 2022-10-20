@@ -1,1 +1,61 @@
-{"uuid":"62fc95d5-0849-42b9-9efc-b5c39f2fb26a","historyId":"6a6b310b0bf5b54e61895fab7ada2533","fullName":"Task_6.test","labels":[{"name":"package","value":"Task_6"},{"name":"testClass","value":"Task_6"},{"name":"testMethod","value":"test"},{"name":"parentSuite","value":"Default Suite"},{"name":"suite","value":"Automation_Alina_Osaulko"},{"name":"subSuite","value":"Task_6"},{"name":"host","value":"hugo-pc"},{"name":"thread","value":"6404@hugo-pc.main(1)"},{"name":"framework","value":"testng"},{"name":"language","value":"java"}],"links":[],"name":"test","status":"passed","statusDetails":{"known":false,"muted":false,"flaky":false},"stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1665514349045,"stop":1665514350979}
+{
+  "uuid": "62fc95d5-0849-42b9-9efc-b5c39f2fb26a",
+  "historyId": "6a6b310b0bf5b54e61895fab7ada2533",
+  "fullName": "Task_6.test",
+  "labels": [
+    {
+      "name": "package",
+      "value": "Task_6"
+    },
+    {
+      "name": "testClass",
+      "value": "Task_6"
+    },
+    {
+      "name": "testMethod",
+      "value": "test"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default Suite"
+    },
+    {
+      "name": "suite",
+      "value": "Automation_Alina_Osaulko"
+    },
+    {
+      "name": "subSuite",
+      "value": "Task_6"
+    },
+    {
+      "name": "host",
+      "value": "hugo-pc"
+    },
+    {
+      "name": "thread",
+      "value": "6404@hugo-pc.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "test",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1665514349045,
+  "stop": 1665514350979
+}

@@ -1,1 +1,11 @@
-{"uuid":"ead96a5c-c72d-4e90-90ab-c43fdef8d1ca","name":"Lecture 10","children":["7d719b7e-6cb1-4245-8666-5dbb6ea8a1ab"],"befores":[],"afters":[],"start":1665943107533,"stop":1665943130304}
+{
+  "uuid": "ead96a5c-c72d-4e90-90ab-c43fdef8d1ca",
+  "name": "Lecture 10",
+  "children": [
+    "7d719b7e-6cb1-4245-8666-5dbb6ea8a1ab"
+  ],
+  "befores": [],
+  "afters": [],
+  "start": 1665943107533,
+  "stop": 1665943130304
+}

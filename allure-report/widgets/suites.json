@@ -1,1 +1,53 @@
-{"total":4,"items":[{"uid":"8399274b4bb69ec8699907dd6ef7de4e","name":"Default Suite","statistic":{"failed":0,"broken":2,"skipped":4,"passed":12,"unknown":0,"total":18}},{"uid":"0ec9c4f0ac62360fd07895146d4b2e5b","name":"Lecture 9","statistic":{"failed":0,"broken":1,"skipped":1,"passed":9,"unknown":1,"total":12}},{"uid":"22d239be54186301190c060b822f3fb7","name":"Lecture 8","statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1}},{"uid":"9a362966916d8a24cddd019c70290f9f","name":"Lecture 10","statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1}}]}
+{
+  "total": 4,
+  "items": [
+    {
+      "uid": "8399274b4bb69ec8699907dd6ef7de4e",
+      "name": "Default Suite",
+      "statistic": {
+        "failed": 0,
+        "broken": 2,
+        "skipped": 4,
+        "passed": 12,
+        "unknown": 0,
+        "total": 18
+      }
+    },
+    {
+      "uid": "0ec9c4f0ac62360fd07895146d4b2e5b",
+      "name": "Lecture 9",
+      "statistic": {
+        "failed": 0,
+        "broken": 1,
+        "skipped": 1,
+        "passed": 9,
+        "unknown": 1,
+        "total": 12
+      }
+    },
+    {
+      "uid": "22d239be54186301190c060b822f3fb7",
+      "name": "Lecture 8",
+      "statistic": {
+        "failed": 0,
+        "broken": 0,
+        "skipped": 0,
+        "passed": 1,
+        "unknown": 0,
+        "total": 1
+      }
+    },
+    {
+      "uid": "9a362966916d8a24cddd019c70290f9f",
+      "name": "Lecture 10",
+      "statistic": {
+        "failed": 0,
+        "broken": 0,
+        "skipped": 0,
+        "passed": 1,
+        "unknown": 0,
+        "total": 1
+      }
+    }
+  ]
+}

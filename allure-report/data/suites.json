@@ -1,1 +1,790 @@
-{"uid":"98d3104e051c652961429bf95fa0b5d6","name":"suites","children":[{"name":"Default Suite","children":[{"name":"Automation_Alina_Osaulko","children":[{"name":"HomeWork9.Task9_3Test","children":[{"name":"dataProviderTask","uid":"50d3a7110f6483eb","parentUid":"b6c181b177b2a0468af672a0e883bc84","status":"passed","time":{"start":1665514118199,"stop":1665514119114,"duration":915},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":["Sauce Labs Backpack","$29.99"],"tags":[]},{"name":"dataProviderTask","uid":"cf4e2b6c71af40ee","parentUid":"b6c181b177b2a0468af672a0e883bc84","status":"passed","time":{"start":1665514119883,"stop":1665514120674,"duration":791},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":["Sauce Labs Bike Light","$9.99"],"tags":[]},{"name":"dataProviderTask","uid":"6770c305f9cc5d03","parentUid":"b6c181b177b2a0468af672a0e883bc84","status":"passed","time":{"start":1665514121341,"stop":1665514122052,"duration":711},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":["Sauce Labs Bolt T-Shirt","$15.99"],"tags":[]},{"name":"dataProviderTask","uid":"9af61ca5a08edb0a","parentUid":"b6c181b177b2a0468af672a0e883bc84","status":"passed","time":{"start":1665514122652,"stop":1665514123325,"duration":673},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":["Sauce Labs Fleece Jacket","$49.99"],"tags":[]}],"uid":"b6c181b177b2a0468af672a0e883bc84"},{"name":"HomeWork9.Task9_1Test","children":[{"name":"setUp","uid":"444661061b2bb3ac","parentUid":"54fd23e306725c0703b7514f7df3ba4e","status":"broken","time":{"start":1665514324461,"stop":1665514324471,"duration":10},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[],"tags":[]},{"name":"login","uid":"323f743e8665e94b","parentUid":"54fd23e306725c0703b7514f7df3ba4e","status":"skipped","time":{"start":1665514325144,"stop":1665514325147,"duration":3},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":3,"retriesStatusChange":true,"parameters":["standard_user","secret_sauce"],"tags":[]},{"name":"login","uid":"4ec60bb9d4b21d0a","parentUid":"54fd23e306725c0703b7514f7df3ba4e","status":"skipped","time":{"start":1665514325161,"stop":1665514325162,"duration":1},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":3,"retriesStatusChange":true,"parameters":["locked_out_user","secret_sauce"],"tags":[]},{"name":"login","uid":"9fed195d140f4c3c","parentUid":"54fd23e306725c0703b7514f7df3ba4e","status":"skipped","time":{"start":1665514325172,"stop":1665514325173,"duration":1},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":3,"retriesStatusChange":true,"parameters":["problem_user","3645769"],"tags":[]},{"name":"login","uid":"253ba4c0c0ee72b","parentUid":"54fd23e306725c0703b7514f7df3ba4e","status":"skipped","time":{"start":1665514325194,"stop":1665514325196,"duration":2},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":3,"retriesStatusChange":true,"parameters":["AlinaName@","secret_sauce"],"tags":[]}],"uid":"54fd23e306725c0703b7514f7df3ba4e"},{"name":"Task_6","children":[{"name":"test","uid":"8274776b52b70bdd","parentUid":"adb58057e94d0ac8731c729892d1feb5","status":"passed","time":{"start":1665514349045,"stop":1665514350979,"duration":1934},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[],"tags":[]}],"uid":"adb58057e94d0ac8731c729892d1feb5"},{"name":"Lecture4.Lecture4_1","children":[{"name":"test1","uid":"17f4869f21d8ce16","parentUid":"8a975d6176e0a44a0a80b01785d82ee3","status":"passed","time":{"start":1665514377491,"stop":1665514377528,"duration":37},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[],"tags":[]},{"name":"test2","uid":"4db337ed3fd21b79","parentUid":"8a975d6176e0a44a0a80b01785d82ee3","status":"passed","time":{"start":1665514377950,"stop":1665514377951,"duration":1},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[],"tags":[]},{"name":"test3","uid":"80c2d15f5fddca60","parentUid":"8a975d6176e0a44a0a80b01785d82ee3","status":"passed","time":{"start":1665514377963,"stop":1665514377965,"duration":2},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[],"tags":[]},{"name":"test4","uid":"46dce1fc4452b661","parentUid":"8a975d6176e0a44a0a80b01785d82ee3","status":"passed","time":{"start":1665514377972,"stop":1665514377972,"duration":0},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":0,"retriesStatusChange":false,"parameters":[],"tags":[]}],"uid":"8a975d6176e0a44a0a80b01785d82ee3"},{"name":"Lecture_8.Lecture8_2","children":[{"name":"contextMenu_Test","uid":"ae518d14e6b75d52","parentUid":"c95b559ac7f67bba1aa1e98b9e20df29","status":"passed","time":{"start":1665942202981,"stop":1665942203784,"duration":803},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":2,"retriesStatusChange":false,"parameters":[],"tags":[]},{"name":"dynamicLoading_Test","uid":"a5fa6d8654a004bb","parentUid":"c95b559ac7f67bba1aa1e98b9e20df29","status":"broken","time":{"start":1665942204108,"stop":1665942225096,"duration":20988},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":2,"retriesStatusChange":false,"parameters":[],"tags":[]},{"name":"frame_Test","uid":"5eccf1fb94cb4e53","parentUid":"c95b559ac7f67bba1aa1e98b9e20df29","status":"passed","time":{"start":1665942225511,"stop":1665942228066,"duration":2555},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":2,"retriesStatusChange":true,"parameters":[],"tags":[]},{"name":"scrollPage_Test","uid":"80e10d6477261906","parentUid":"c95b559ac7f67bba1aa1e98b9e20df29","status":"passed","time":{"start":1665942228365,"stop":1665942231938,"duration":3573},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":2,"retriesStatusChange":false,"parameters":[],"tags":[]}],"uid":"c95b559ac7f67bba1aa1e98b9e20df29"}],"uid":"bd3fdf778a97dc9faf55cbcaf9e47c9b"}],"uid":"8399274b4bb69ec8699907dd6ef7de4e"},{"name":"Lecture 8","children":[{"name":"Lecture 8 1 tests","children":[{"name":"Lecture_8.Lecture8_1","children":[{"name":"login","uid":"5eaafe06d8edacd5","parentUid":"8e7a76580f73a9c5276e71c3b903a60e","status":"passed","time":{"start":1665941894377,"stop":1665941924711,"duration":30334},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":2,"retriesStatusChange":false,"parameters":[],"tags":[]}],"uid":"8e7a76580f73a9c5276e71c3b903a60e"}],"uid":"7f07295a5b0d28d1317ac0a1a2c8784f"}],"uid":"22d239be54186301190c060b822f3fb7"},{"name":"Lecture 10","children":[{"name":"Lecture 10","children":[{"name":"Lecture10.Lecture10Test","children":[{"name":"test","uid":"fc3ffd44b6016ffa","parentUid":"ec52ada1e31ca76d044b41cbf74d0fcf","status":"passed","time":{"start":1665943120164,"stop":1665943127889,"duration":7725},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":1,"retriesStatusChange":false,"parameters":[],"tags":[]}],"uid":"ec52ada1e31ca76d044b41cbf74d0fcf"}],"uid":"4526e0e8bc96888eb22dae758a479ce9"}],"uid":"9a362966916d8a24cddd019c70290f9f"},{"name":"Lecture 9","children":[{"name":"Lecture 9 test set 1.3","children":[{"name":"Lecture9.Lecture9_2Test","children":[{"name":"test1","uid":"8262287adfb480a3","parentUid":"7a593b9b4392660573dd0a5c7203e100","status":"unknown","time":{"start":1665946377716,"stop":1665946377722,"duration":6},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":5,"retriesStatusChange":false,"parameters":[],"tags":[]},{"name":"test2","uid":"9a5260bf887439dd","parentUid":"7a593b9b4392660573dd0a5c7203e100","status":"passed","time":{"start":1665946379279,"stop":1665946379282,"duration":3},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":5,"retriesStatusChange":false,"parameters":[],"tags":[]},{"name":"Test 3 from lecture 9","uid":"eb06a1262116a500","parentUid":"7a593b9b4392660573dd0a5c7203e100","status":"broken","time":{"start":1665946379305,"stop":1665946380775,"duration":1470},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":5,"retriesStatusChange":false,"parameters":[],"tags":[]},{"name":"test4","uid":"1043ddd9f3f57dc9","parentUid":"7a593b9b4392660573dd0a5c7203e100","status":"skipped","time":{"start":1665946380947,"stop":1665946380949,"duration":2},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":5,"retriesStatusChange":false,"parameters":[],"tags":[]},{"name":"test5","uid":"c1d8d6dbf11a9f11","parentUid":"7a593b9b4392660573dd0a5c7203e100","status":"passed","time":{"start":1665946381614,"stop":1665946382631,"duration":1017},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":29,"retriesStatusChange":false,"parameters":[],"tags":[]},{"name":"test6","uid":"3752ab76722f4e92","parentUid":"7a593b9b4392660573dd0a5c7203e100","status":"passed","time":{"start":1665946385772,"stop":1665946385793,"duration":21},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":21,"retriesStatusChange":true,"parameters":[],"tags":[]}],"uid":"7a593b9b4392660573dd0a5c7203e100"}],"uid":"d48c5b84117ada5f66d1df4aec6c4cb5"},{"name":"Lecture 9 test 1.2","children":[{"name":"Lecture9.Lecture9_1Test","children":[{"name":"test2","uid":"2ae3b64e001966ef","parentUid":"7184667bb0d3f7ae2bd81d4e69a00f0b","status":"passed","time":{"start":1665946379184,"stop":1665946379267,"duration":83},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":6,"retriesStatusChange":false,"parameters":[],"tags":[]}],"uid":"7184667bb0d3f7ae2bd81d4e69a00f0b"}],"uid":"00acf06ee379bf447331a32110a9bf90"},{"name":"Lecture 9 test 1.1","children":[{"name":"Lecture9.Lecture9_1Test","children":[{"name":"test1","uid":"d30071c854d12ccc","parentUid":"a927ab5caaf48f50dd36957b1ade9dff","status":"passed","time":{"start":1665946379184,"stop":1665946379228,"duration":44},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":6,"retriesStatusChange":false,"parameters":[],"tags":[]}],"uid":"a927ab5caaf48f50dd36957b1ade9dff"}],"uid":"545c3c3f724243c7a2b06099cda977c9"},{"name":"Lecture 9 test set 1.4","children":[{"name":"Lecture9.Lecture9_3Test","children":[{"name":"login","uid":"f43ddf716e7938e","parentUid":"cc6841f1cacf1594b7ebb3695f4eb6d7","status":"passed","time":{"start":1665946393434,"stop":1665946394359,"duration":925},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":5,"retriesStatusChange":false,"parameters":["standard_user","secret_sauce","https://www.saucedemo.com/","test"],"tags":[]},{"name":"login","uid":"cc6cb2c70316b73d","parentUid":"cc6841f1cacf1594b7ebb3695f4eb6d7","status":"passed","time":{"start":1665946394685,"stop":1665946395331,"duration":646},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":5,"retriesStatusChange":false,"parameters":["locked_out_user","secret_sauce","https://www.saucedemo.com/","test"],"tags":[]},{"name":"login","uid":"26276ab9f4951d1b","parentUid":"cc6841f1cacf1594b7ebb3695f4eb6d7","status":"passed","time":{"start":1665946395625,"stop":1665946396305,"duration":680},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":5,"retriesStatusChange":false,"parameters":["problem_user","secret_sauce","https://www.saucedemo.com/","test"],"tags":[]},{"name":"login","uid":"427786898e04c53c","parentUid":"cc6841f1cacf1594b7ebb3695f4eb6d7","status":"passed","time":{"start":1665946396522,"stop":1665946402181,"duration":5659},"flaky":false,"newFailed":false,"newPassed":false,"newBroken":false,"retriesCount":5,"retriesStatusChange":false,"parameters":["performance_glitch_user","secret_sauce","https://www.saucedemo.com/","test"],"tags":[]}],"uid":"cc6841f1cacf1594b7ebb3695f4eb6d7"}],"uid":"5eafdd9ffc23d843e55d79fab62ad1ba"}],"uid":"0ec9c4f0ac62360fd07895146d4b2e5b"}]}
+{
+  "uid": "98d3104e051c652961429bf95fa0b5d6",
+  "name": "suites",
+  "children": [
+    {
+      "name": "Default Suite",
+      "children": [
+        {
+          "name": "Automation_Alina_Osaulko",
+          "children": [
+            {
+              "name": "HomeWork9.Task9_3Test",
+              "children": [
+                {
+                  "name": "dataProviderTask",
+                  "uid": "50d3a7110f6483eb",
+                  "parentUid": "b6c181b177b2a0468af672a0e883bc84",
+                  "status": "passed",
+                  "time": {
+                    "start": 1665514118199,
+                    "stop": 1665514119114,
+                    "duration": 915
+                  },
+                  "flaky": false,
+                  "newFailed": false,
+                  "newPassed": false,
+                  "newBroken": false,
+                  "retriesCount": 0,
+                  "retriesStatusChange": false,
+                  "parameters": [
+                    "Sauce Labs Backpack",
+                    "$29.99"
+                  ],
+                  "tags": []
+                },
+                {
+                  "name": "dataProviderTask",
+                  "uid": "cf4e2b6c71af40ee",
+                  "parentUid": "b6c181b177b2a0468af672a0e883bc84",
+                  "status": "passed",
+                  "time": {
+                    "start": 1665514119883,
+                    "stop": 1665514120674,
+                    "duration": 791
+                  },
+                  "flaky": false,
+                  "newFailed": false,
+                  "newPassed": false,
+                  "newBroken": false,
+                  "retriesCount": 0,
+                  "retriesStatusChange": false,
+                  "parameters": [
+                    "Sauce Labs Bike Light",
+                    "$9.99"
+                  ],
+                  "tags": []
+                },
+                {
+                  "name": "dataProviderTask",
+                  "uid": "6770c305f9cc5d03",
+                  "parentUid": "b6c181b177b2a0468af672a0e883bc84",
+                  "status": "passed",
+                  "time": {
+                    "start": 1665514121341,
+                    "stop": 1665514122052,
+                    "duration": 711
+                  },
+                  "flaky": false,
+                  "newFailed": false,
+                  "newPassed": false,
+                  "newBroken": false,
+                  "retriesCount": 0,
+                  "retriesStatusChange": false,
+                  "parameters": [
+                    "Sauce Labs Bolt T-Shirt",
+                    "$15.99"
+                  ],
+                  "tags": []
+                },
+                {
+                  "name": "dataProviderTask",
+                  "uid": "9af61ca5a08edb0a",
+                  "parentUid": "b6c181b177b2a0468af672a0e883bc84",
+                  "status": "passed",
+                  "time": {
+                    "start": 1665514122652,
+                    "stop": 1665514123325,
+                    "duration": 673
+                  },
+                  "flaky": false,
+                  "newFailed": false,
+                  "newPassed": false,
+                  "newBroken": false,
+                  "retriesCount": 0,
+                  "retriesStatusChange": false,
+                  "parameters": [
+                    "Sauce Labs Fleece Jacket",
+                    "$49.99"
+                  ],
+                  "tags": []
+                }
+              ],
+              "uid": "b6c181b177b2a0468af672a0e883bc84"
+            },
+            {
+              "name": "HomeWork9.Task9_1Test",
+              "children": [
+                {
+                  "name": "setUp",
+                  "uid": "444661061b2bb3ac",
+                  "parentUid": "54fd23e306725c0703b7514f7df3ba4e",
+                  "status": "broken",
+                  "time": {
+                    "start": 1665514324461,
+                    "stop": 1665514324471,
+                    "duration": 10
+                  },
+                  "flaky": false,
+                  "newFailed": false,
+                  "newPassed": false,
+                  "newBroken": false,
+                  "retriesCount": 0,
+                  "retriesStatusChange": false,
+                  "parameters": [],
+                  "tags": []
+                },
+                {
+                  "name": "login",
+                  "uid": "323f743e8665e94b",
+                  "parentUid": "54fd23e306725c0703b7514f7df3ba4e",
+                  "status": "skipped",
+                  "time": {
+                    "start": 1665514325144,
+                    "stop": 1665514325147,
+                    "duration": 3
+                  },
+                  "flaky": false,
+                  "newFailed": false,
+                  "newPassed": false,
+                  "newBroken": false,
+                  "retriesCount": 3,
+                  "retriesStatusChange": true,
+                  "parameters": [
+                    "standard_user",
+                    "secret_sauce"
+                  ],
+                  "tags": []
+                },
+                {
+                  "name": "login",
+                  "uid": "4ec60bb9d4b21d0a",
+                  "parentUid": "54fd23e306725c0703b7514f7df3ba4e",
+                  "status": "skipped",
+                  "time": {
+                    "start": 1665514325161,
+                    "stop": 1665514325162,
+                    "duration": 1
+                  },
+                  "flaky": false,
+                  "newFailed": false,
+                  "newPassed": false,
+                  "newBroken": false,
+                  "retriesCount": 3,
+                  "retriesStatusChange": true,
+                  "parameters": [
+                    "locked_out_user",
+                    "secret_sauce"
+                  ],
+                  "tags": []
+                },
+                {
+                  "name": "login",
+                  "uid": "9fed195d140f4c3c",
+                  "parentUid": "54fd23e306725c0703b7514f7df3ba4e",
+                  "status": "skipped",
+                  "time": {
+                    "start": 1665514325172,
+                    "stop": 1665514325173,
+                    "duration": 1
+                  },
+                  "flaky": false,
+                  "newFailed": false,
+                  "newPassed": false,
+                  "newBroken": false,
+                  "retriesCount": 3,
+                  "retriesStatusChange": true,
+                  "parameters": [
+                    "problem_user",
+                    "3645769"
+                  ],
+                  "tags": []
+                },
+                {
+                  "name": "login",
+                  "uid": "253ba4c0c0ee72b",
+                  "parentUid": "54fd23e306725c0703b7514f7df3ba4e",
+                  "status": "skipped",
+                  "time": {
+                    "start": 1665514325194,
+                    "stop": 1665514325196,
+                    "duration": 2
+                  },
+                  "flaky": false,
+                  "newFailed": false,
+                  "newPassed": false,
+                  "newBroken": false,
+                  "retriesCount": 3,
+                  "retriesStatusChange": true,
+                  "parameters": [
+                    "AlinaName@",
+                    "secret_sauce"
+                  ],
+                  "tags": []
+                }
+              ],
+              "uid": "54fd23e306725c0703b7514f7df3ba4e"
+            },
+            {
+              "name": "Task_6",
+              "children": [
+                {
+                  "name": "test",
+                  "uid": "8274776b52b70bdd",
+                  "parentUid": "adb58057e94d0ac8731c729892d1feb5",
+                  "status": "passed",
+                  "time": {
+                    "start": 1665514349045,
+                    "stop": 1665514350979,
+                    "duration": 1934
+                  },
+                  "flaky": false,
+                  "newFailed": false,
+                  "newPassed": false,
+                  "newBroken": false,
+                  "retriesCount": 0,
+                  "retriesStatusChange": false,
+                  "parameters": [],
+                  "tags": []
+                }
+              ],
+              "uid": "adb58057e94d0ac8731c729892d1feb5"
+            },
+            {
+              "name": "Lecture4.Lecture4_1",
+              "children": [
+                {
+                  "name": "test1",
+                  "uid": "17f4869f21d8ce16",
+                  "parentUid": "8a975d6176e0a44a0a80b01785d82ee3",
+                  "status": "passed",
+                  "time": {
+                    "start": 1665514377491,
+                    "stop": 1665514377528,
+                    "duration": 37
+                  },
+                  "flaky": false,
+                  "newFailed": false,
+                  "newPassed": false,
+                  "newBroken": false,
+                  "retriesCount": 0,
+                  "retriesStatusChange": false,
+                  "parameters": [],
+                  "tags": []
+                },
+                {
+                  "name": "test2",
+                  "uid": "4db337ed3fd21b79",
+                  "parentUid": "8a975d6176e0a44a0a80b01785d82ee3",
+                  "status": "passed",
+                  "time": {
+                    "start": 1665514377950,
+                    "stop": 1665514377951,
+                    "duration": 1
+                  },
+                  "flaky": false,
+                  "newFailed": false,
+                  "newPassed": false,
+                  "newBroken": false,
+                  "retriesCount": 0,
+                  "retriesStatusChange": false,
+                  "parameters": [],
+                  "tags": []
+                },
+                {
+                  "name": "test3",
+                  "uid": "80c2d15f5fddca60",
+                  "parentUid": "8a975d6176e0a44a0a80b01785d82ee3",
+                  "status": "passed",
+                  "time": {
+                    "start": 1665514377963,
+                    "stop": 1665514377965,
+                    "duration": 2
+                  },
+                  "flaky": false,
+                  "newFailed": false,
+                  "newPassed": false,
+                  "newBroken": false,
+                  "retriesCount": 0,
+                  "retriesStatusChange": false,
+                  "parameters": [],
+                  "tags": []
+                },
+                {
+                  "name": "test4",
+                  "uid": "46dce1fc4452b661",
+                  "parentUid": "8a975d6176e0a44a0a80b01785d82ee3",
+                  "status": "passed",
+                  "time": {
+                    "start": 1665514377972,
+                    "stop": 1665514377972,
+                    "duration": 0
+                  },
+                  "flaky": false,
+                  "newFailed": false,
+                  "newPassed": false,
+                  "newBroken": false,
+                  "retriesCount": 0,
+                  "retriesStatusChange": false,
+                  "parameters": [],
+                  "tags": []
+                }
+              ],
+              "uid": "8a975d6176e0a44a0a80b01785d82ee3"
+            },
+            {
+              "name": "Lecture_8.Lecture8_2",
+              "children": [
+                {
+                  "name": "contextMenu_Test",
+                  "uid": "ae518d14e6b75d52",
+                  "parentUid": "c95b559ac7f67bba1aa1e98b9e20df29",
+                  "status": "passed",
+                  "time": {
+                    "start": 1665942202981,
+                    "stop": 1665942203784,
+                    "duration": 803
+                  },
+                  "flaky": false,
+                  "newFailed": false,
+                  "newPassed": false,
+                  "newBroken": false,
+                  "retriesCount": 2,
+                  "retriesStatusChange": false,
+                  "parameters": [],
+                  "tags": []
+                },
+                {
+                  "name": "dynamicLoading_Test",
+                  "uid": "a5fa6d8654a004bb",
+                  "parentUid": "c95b559ac7f67bba1aa1e98b9e20df29",
+                  "status": "broken",
+                  "time": {
+                    "start": 1665942204108,
+                    "stop": 1665942225096,
+                    "duration": 20988
+                  },
+                  "flaky": false,
+                  "newFailed": false,
+                  "newPassed": false,
+                  "newBroken": false,
+                  "retriesCount": 2,
+                  "retriesStatusChange": false,
+                  "parameters": [],
+                  "tags": []
+                },
+                {
+                  "name": "frame_Test",
+                  "uid": "5eccf1fb94cb4e53",
+                  "parentUid": "c95b559ac7f67bba1aa1e98b9e20df29",
+                  "status": "passed",
+                  "time": {
+                    "start": 1665942225511,
+                    "stop": 1665942228066,
+                    "duration": 2555
+                  },
+                  "flaky": false,
+                  "newFailed": false,
+                  "newPassed": false,
+                  "newBroken": false,
+                  "retriesCount": 2,
+                  "retriesStatusChange": true,
+                  "parameters": [],
+                  "tags": []
+                },
+                {
+                  "name": "scrollPage_Test",
+                  "uid": "80e10d6477261906",
+                  "parentUid": "c95b559ac7f67bba1aa1e98b9e20df29",
+                  "status": "passed",
+                  "time": {
+                    "start": 1665942228365,
+                    "stop": 1665942231938,
+                    "duration": 3573
+                  },
+                  "flaky": false,
+                  "newFailed": false,
+                  "newPassed": false,
+                  "newBroken": false,
+                  "retriesCount": 2,
+                  "retriesStatusChange": false,
+                  "parameters": [],
+                  "tags": []
+                }
+              ],
+              "uid": "c95b559ac7f67bba1aa1e98b9e20df29"
+            }
+          ],
+          "uid": "bd3fdf778a97dc9faf55cbcaf9e47c9b"
+        }
+      ],
+      "uid": "8399274b4bb69ec8699907dd6ef7de4e"
+    },
+    {
+      "name": "Lecture 8",
+      "children": [
+        {
+          "name": "Lecture 8 1 tests",
+          "children": [
+            {
+              "name": "Lecture_8.Lecture8_1",
+              "children": [
+                {
+                  "name": "login",
+                  "uid": "5eaafe06d8edacd5",
+                  "parentUid": "8e7a76580f73a9c5276e71c3b903a60e",
+                  "status": "passed",
+                  "time": {
+                    "start": 1665941894377,
+                    "stop": 1665941924711,
+                    "duration": 30334
+                  },
+                  "flaky": false,
+                  "newFailed": false,
+                  "newPassed": false,
+                  "newBroken": false,
+                  "retriesCount": 2,
+                  "retriesStatusChange": false,
+                  "parameters": [],
+                  "tags": []
+                }
+              ],
+              "uid": "8e7a76580f73a9c5276e71c3b903a60e"
+            }
+          ],
+          "uid": "7f07295a5b0d28d1317ac0a1a2c8784f"
+        }
+      ],
+      "uid": "22d239be54186301190c060b822f3fb7"
+    },
+    {
+      "name": "Lecture 10",
+      "children": [
+        {
+          "name": "Lecture 10",
+          "children": [
+            {
+              "name": "Lecture10.Lecture10Test",
+              "children": [
+                {
+                  "name": "test",
+                  "uid": "fc3ffd44b6016ffa",
+                  "parentUid": "ec52ada1e31ca76d044b41cbf74d0fcf",
+                  "status": "passed",
+                  "time": {
+                    "start": 1665943120164,
+                    "stop": 1665943127889,
+                    "duration": 7725
+                  },
+                  "flaky": false,
+                  "newFailed": false,
+                  "newPassed": false,
+                  "newBroken": false,
+                  "retriesCount": 1,
+                  "retriesStatusChange": false,
+                  "parameters": [],
+                  "tags": []
+                }
+              ],
+              "uid": "ec52ada1e31ca76d044b41cbf74d0fcf"
+            }
+          ],
+          "uid": "4526e0e8bc96888eb22dae758a479ce9"
+        }
+      ],
+      "uid": "9a362966916d8a24cddd019c70290f9f"
+    },
+    {
+      "name": "Lecture 9",
+      "children": [
+        {
+          "name": "Lecture 9 test set 1.3",
+          "children": [
+            {
+              "name": "Lecture9.Lecture9_2Test",
+              "children": [
+                {
+                  "name": "test1",
+                  "uid": "8262287adfb480a3",
+                  "parentUid": "7a593b9b4392660573dd0a5c7203e100",
+                  "status": "unknown",
+                  "time": {
+                    "start": 1665946377716,
+                    "stop": 1665946377722,
+                    "duration": 6
+                  },
+                  "flaky": false,
+                  "newFailed": false,
+                  "newPassed": false,
+                  "newBroken": false,
+                  "retriesCount": 5,
+                  "retriesStatusChange": false,
+                  "parameters": [],
+                  "tags": []
+                },
+                {
+                  "name": "test2",
+                  "uid": "9a5260bf887439dd",
+                  "parentUid": "7a593b9b4392660573dd0a5c7203e100",
+                  "status": "passed",
+                  "time": {
+                    "start": 1665946379279,
+                    "stop": 1665946379282,
+                    "duration": 3
+                  },
+                  "flaky": false,
+                  "newFailed": false,
+                  "newPassed": false,
+                  "newBroken": false,
+                  "retriesCount": 5,
+                  "retriesStatusChange": false,
+                  "parameters": [],
+                  "tags": []
+                },
+                {
+                  "name": "Test 3 from lecture 9",
+                  "uid": "eb06a1262116a500",
+                  "parentUid": "7a593b9b4392660573dd0a5c7203e100",
+                  "status": "broken",
+                  "time": {
+                    "start": 1665946379305,
+                    "stop": 1665946380775,
+                    "duration": 1470
+                  },
+                  "flaky": false,
+                  "newFailed": false,
+                  "newPassed": false,
+                  "newBroken": false,
+                  "retriesCount": 5,
+                  "retriesStatusChange": false,
+                  "parameters": [],
+                  "tags": []
+                },
+                {
+                  "name": "test4",
+                  "uid": "1043ddd9f3f57dc9",
+                  "parentUid": "7a593b9b4392660573dd0a5c7203e100",
+                  "status": "skipped",
+                  "time": {
+                    "start": 1665946380947,
+                    "stop": 1665946380949,
+                    "duration": 2
+                  },
+                  "flaky": false,
+                  "newFailed": false,
+                  "newPassed": false,
+                  "newBroken": false,
+                  "retriesCount": 5,
+                  "retriesStatusChange": false,
+                  "parameters": [],
+                  "tags": []
+                },
+                {
+                  "name": "test5",
+                  "uid": "c1d8d6dbf11a9f11",
+                  "parentUid": "7a593b9b4392660573dd0a5c7203e100",
+                  "status": "passed",
+                  "time": {
+                    "start": 1665946381614,
+                    "stop": 1665946382631,
+                    "duration": 1017
+                  },
+                  "flaky": false,
+                  "newFailed": false,
+                  "newPassed": false,
+                  "newBroken": false,
+                  "retriesCount": 29,
+                  "retriesStatusChange": false,
+                  "parameters": [],
+                  "tags": []
+                },
+                {
+                  "name": "test6",
+                  "uid": "3752ab76722f4e92",
+                  "parentUid": "7a593b9b4392660573dd0a5c7203e100",
+                  "status": "passed",
+                  "time": {
+                    "start": 1665946385772,
+                    "stop": 1665946385793,
+                    "duration": 21
+                  },
+                  "flaky": false,
+                  "newFailed": false,
+                  "newPassed": false,
+                  "newBroken": false,
+                  "retriesCount": 21,
+                  "retriesStatusChange": true,
+                  "parameters": [],
+                  "tags": []
+                }
+              ],
+              "uid": "7a593b9b4392660573dd0a5c7203e100"
+            }
+          ],
+          "uid": "d48c5b84117ada5f66d1df4aec6c4cb5"
+        },
+        {
+          "name": "Lecture 9 test 1.2",
+          "children": [
+            {
+              "name": "Lecture9.Lecture9_1Test",
+              "children": [
+                {
+                  "name": "test2",
+                  "uid": "2ae3b64e001966ef",
+                  "parentUid": "7184667bb0d3f7ae2bd81d4e69a00f0b",
+                  "status": "passed",
+                  "time": {
+                    "start": 1665946379184,
+                    "stop": 1665946379267,
+                    "duration": 83
+                  },
+                  "flaky": false,
+                  "newFailed": false,
+                  "newPassed": false,
+                  "newBroken": false,
+                  "retriesCount": 6,
+                  "retriesStatusChange": false,
+                  "parameters": [],
+                  "tags": []
+                }
+              ],
+              "uid": "7184667bb0d3f7ae2bd81d4e69a00f0b"
+            }
+          ],
+          "uid": "00acf06ee379bf447331a32110a9bf90"
+        },
+        {
+          "name": "Lecture 9 test 1.1",
+          "children": [
+            {
+              "name": "Lecture9.Lecture9_1Test",
+              "children": [
+                {
+                  "name": "test1",
+                  "uid": "d30071c854d12ccc",
+                  "parentUid": "a927ab5caaf48f50dd36957b1ade9dff",
+                  "status": "passed",
+                  "time": {
+                    "start": 1665946379184,
+                    "stop": 1665946379228,
+                    "duration": 44
+                  },
+                  "flaky": false,
+                  "newFailed": false,
+                  "newPassed": false,
+                  "newBroken": false,
+                  "retriesCount": 6,
+                  "retriesStatusChange": false,
+                  "parameters": [],
+                  "tags": []
+                }
+              ],
+              "uid": "a927ab5caaf48f50dd36957b1ade9dff"
+            }
+          ],
+          "uid": "545c3c3f724243c7a2b06099cda977c9"
+        },
+        {
+          "name": "Lecture 9 test set 1.4",
+          "children": [
+            {
+              "name": "Lecture9.Lecture9_3Test",
+              "children": [
+                {
+                  "name": "login",
+                  "uid": "f43ddf716e7938e",
+                  "parentUid": "cc6841f1cacf1594b7ebb3695f4eb6d7",
+                  "status": "passed",
+                  "time": {
+                    "start": 1665946393434,
+                    "stop": 1665946394359,
+                    "duration": 925
+                  },
+                  "flaky": false,
+                  "newFailed": false,
+                  "newPassed": false,
+                  "newBroken": false,
+                  "retriesCount": 5,
+                  "retriesStatusChange": false,
+                  "parameters": [
+                    "standard_user",
+                    "secret_sauce",
+                    "https://www.saucedemo.com/",
+                    "test"
+                  ],
+                  "tags": []
+                },
+                {
+                  "name": "login",
+                  "uid": "cc6cb2c70316b73d",
+                  "parentUid": "cc6841f1cacf1594b7ebb3695f4eb6d7",
+                  "status": "passed",
+                  "time": {
+                    "start": 1665946394685,
+                    "stop": 1665946395331,
+                    "duration": 646
+                  },
+                  "flaky": false,
+                  "newFailed": false,
+                  "newPassed": false,
+                  "newBroken": false,
+                  "retriesCount": 5,
+                  "retriesStatusChange": false,
+                  "parameters": [
+                    "locked_out_user",
+                    "secret_sauce",
+                    "https://www.saucedemo.com/",
+                    "test"
+                  ],
+                  "tags": []
+                },
+                {
+                  "name": "login",
+                  "uid": "26276ab9f4951d1b",
+                  "parentUid": "cc6841f1cacf1594b7ebb3695f4eb6d7",
+                  "status": "passed",
+                  "time": {
+                    "start": 1665946395625,
+                    "stop": 1665946396305,
+                    "duration": 680
+                  },
+                  "flaky": false,
+                  "newFailed": false,
+                  "newPassed": false,
+                  "newBroken": false,
+                  "retriesCount": 5,
+                  "retriesStatusChange": false,
+                  "parameters": [
+                    "problem_user",
+                    "secret_sauce",
+                    "https://www.saucedemo.com/",
+                    "test"
+                  ],
+                  "tags": []
+                },
+                {
+                  "name": "login",
+                  "uid": "427786898e04c53c",
+                  "parentUid": "cc6841f1cacf1594b7ebb3695f4eb6d7",
+                  "status": "passed",
+                  "time": {
+                    "start": 1665946396522,
+                    "stop": 1665946402181,
+                    "duration": 5659
+                  },
+                  "flaky": false,
+                  "newFailed": false,
+                  "newPassed": false,
+                  "newBroken": false,
+                  "retriesCount": 5,
+                  "retriesStatusChange": false,
+                  "parameters": [
+                    "performance_glitch_user",
+                    "secret_sauce",
+                    "https://www.saucedemo.com/",
+                    "test"
+                  ],
+                  "tags": []
+                }
+              ],
+              "uid": "cc6841f1cacf1594b7ebb3695f4eb6d7"
+            }
+          ],
+          "uid": "5eafdd9ffc23d843e55d79fab62ad1ba"
+        }
+      ],
+      "uid": "0ec9c4f0ac62360fd07895146d4b2e5b"
+    }
+  ]
+}

@@ -1,1 +1,141 @@
-{"uid":"fc3ffd44b6016ffa","name":"test","fullName":"Lecture10.Lecture10Test.test","historyId":"4c7020df029ab0ed84b7561f3b4775be","time":{"start":1665943120164,"stop":1665943127889,"duration":7725},"status":"passed","flaky":false,"newFailed":false,"newBroken":false,"newPassed":false,"retriesCount":1,"retriesStatusChange":false,"beforeStages":[{"name":"setUp","time":{"start":1665943107706,"stop":1665943119765,"duration":12059},"description":"","status":"passed","steps":[],"attachments":[],"parameters":[],"attachmentsCount":0,"shouldDisplayMessage":false,"stepsCount":0,"hasContent":false},{"name":"precondition","time":{"start":1665943119889,"stop":1665943119996,"duration":107},"description":"","status":"passed","steps":[],"attachments":[],"parameters":[],"attachmentsCount":0,"shouldDisplayMessage":false,"stepsCount":0,"hasContent":false}],"afterStages":[{"name":"stop","time":{"start":1665943128158,"stop":1665943130183,"duration":2025},"description":"","status":"passed","steps":[],"attachments":[],"parameters":[],"attachmentsCount":0,"shouldDisplayMessage":false,"stepsCount":0,"hasContent":false}],"labels":[{"name":"package","value":"Lecture10.Lecture10Test"},{"name":"testClass","value":"Lecture10.Lecture10Test"},{"name":"testMethod","value":"test"},{"name":"parentSuite","value":"Lecture 10"},{"name":"suite","value":"Lecture 10"},{"name":"subSuite","value":"Lecture10.Lecture10Test"},{"name":"host","value":"hugo-pc"},{"name":"thread","value":"4872@hugo-pc.TestNG-tests-1(15)"},{"name":"framework","value":"testng"},{"name":"language","value":"java"},{"name":"resultFormat","value":"allure2"}],"parameters":[],"links":[],"hidden":false,"retry":false,"extra":{"severity":"normal","retries":[{"uid":"6b12c9b623f0791d","status":"passed","time":{"start":1665941271546,"stop":1665941279165,"duration":7619}}],"categories":[],"tags":[]},"source":"fc3ffd44b6016ffa.json","parameterValues":[]}
+{
+  "uid": "fc3ffd44b6016ffa",
+  "name": "test",
+  "fullName": "Lecture10.Lecture10Test.test",
+  "historyId": "4c7020df029ab0ed84b7561f3b4775be",
+  "time": {
+    "start": 1665943120164,
+    "stop": 1665943127889,
+    "duration": 7725
+  },
+  "status": "passed",
+  "flaky": false,
+  "newFailed": false,
+  "newBroken": false,
+  "newPassed": false,
+  "retriesCount": 1,
+  "retriesStatusChange": false,
+  "beforeStages": [
+    {
+      "name": "setUp",
+      "time": {
+        "start": 1665943107706,
+        "stop": 1665943119765,
+        "duration": 12059
+      },
+      "description": "",
+      "status": "passed",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "attachmentsCount": 0,
+      "shouldDisplayMessage": false,
+      "stepsCount": 0,
+      "hasContent": false
+    },
+    {
+      "name": "precondition",
+      "time": {
+        "start": 1665943119889,
+        "stop": 1665943119996,
+        "duration": 107
+      },
+      "description": "",
+      "status": "passed",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "attachmentsCount": 0,
+      "shouldDisplayMessage": false,
+      "stepsCount": 0,
+      "hasContent": false
+    }
+  ],
+  "afterStages": [
+    {
+      "name": "stop",
+      "time": {
+        "start": 1665943128158,
+        "stop": 1665943130183,
+        "duration": 2025
+      },
+      "description": "",
+      "status": "passed",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "attachmentsCount": 0,
+      "shouldDisplayMessage": false,
+      "stepsCount": 0,
+      "hasContent": false
+    }
+  ],
+  "labels": [
+    {
+      "name": "package",
+      "value": "Lecture10.Lecture10Test"
+    },
+    {
+      "name": "testClass",
+      "value": "Lecture10.Lecture10Test"
+    },
+    {
+      "name": "testMethod",
+      "value": "test"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Lecture 10"
+    },
+    {
+      "name": "suite",
+      "value": "Lecture 10"
+    },
+    {
+      "name": "subSuite",
+      "value": "Lecture10.Lecture10Test"
+    },
+    {
+      "name": "host",
+      "value": "hugo-pc"
+    },
+    {
+      "name": "thread",
+      "value": "4872@hugo-pc.TestNG-tests-1(15)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    },
+    {
+      "name": "resultFormat",
+      "value": "allure2"
+    }
+  ],
+  "parameters": [],
+  "links": [],
+  "hidden": false,
+  "retry": false,
+  "extra": {
+    "severity": "normal",
+    "retries": [
+      {
+        "uid": "6b12c9b623f0791d",
+        "status": "passed",
+        "time": {
+          "start": 1665941271546,
+          "stop": 1665941279165,
+          "duration": 7619
+        }
+      }
+    ],
+    "categories": [],
+    "tags": []
+  },
+  "source": "fc3ffd44b6016ffa.json",
+  "parameterValues": []
+}

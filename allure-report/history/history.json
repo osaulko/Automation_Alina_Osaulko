@@ -1,1 +1,682 @@
-{"1ccb1626d8d38b802730845b4ac8884e":{"statistic":{"failed":0,"broken":0,"skipped":1,"passed":0,"unknown":0,"total":1},"items":[{"uid":"323f743e8665e94b","status":"skipped","statusDetails":"Could not start a new session. Response code 500. Message: session not created\nfrom disconnected: received Inspector.detached event\n  (Session info: chrome=105.0.5195.127) \nHost info: host: 'HUGO-PC', ip: '192.168.0.102'\nBuild info: version: '4.5.0', revision: 'fe167b119a'\nSystem info: os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '11.0.15.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [start-maximized], extensions: []}}], desiredCapabilities=Capabilities {browserName: chrome, goog:chromeOptions: {args: [start-maximized], extensions: []}}}]","time":{"start":1665514325144,"stop":1665514325147,"duration":3}}]},"eaf7a250bbd2499d0088695f5bb9ba14":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"9a5260bf887439dd","status":"passed","time":{"start":1665946379279,"stop":1665946379282,"duration":3}}]},"6f208079bd8c7fea645bc7180eecb552":{"statistic":{"failed":0,"broken":0,"skipped":1,"passed":0,"unknown":0,"total":1},"items":[{"uid":"9fed195d140f4c3c","status":"skipped","statusDetails":"Could not start a new session. Response code 500. Message: session not created\nfrom disconnected: received Inspector.detached event\n  (Session info: chrome=105.0.5195.127) \nHost info: host: 'HUGO-PC', ip: '192.168.0.102'\nBuild info: version: '4.5.0', revision: 'fe167b119a'\nSystem info: os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '11.0.15.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [start-maximized], extensions: []}}], desiredCapabilities=Capabilities {browserName: chrome, goog:chromeOptions: {args: [start-maximized], extensions: []}}}]","time":{"start":1665514325172,"stop":1665514325173,"duration":1}}]},"b5caaba5199063d49a4d5f1ee4483b44":{"statistic":{"failed":0,"broken":1,"skipped":0,"passed":0,"unknown":0,"total":1},"items":[{"uid":"444661061b2bb3ac","status":"broken","statusDetails":"Could not start a new session. Response code 500. Message: session not created\nfrom disconnected: received Inspector.detached event\n  (Session info: chrome=105.0.5195.127) \nHost info: host: 'HUGO-PC', ip: '192.168.0.102'\nBuild info: version: '4.5.0', revision: 'fe167b119a'\nSystem info: os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '11.0.15.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [start-maximized], extensions: []}}], desiredCapabilities=Capabilities {browserName: chrome, goog:chromeOptions: {args: [start-maximized], extensions: []}}}]","time":{"start":1665514324461,"stop":1665514324471,"duration":10}}]},"e7573a089f4cc0bcc7c848b8ea5880fb":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"9af61ca5a08edb0a","status":"passed","time":{"start":1665514122652,"stop":1665514123325,"duration":673}}]},"17d370a62c3f4d3f52430e8832a3cf46":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"2ae3b64e001966ef","status":"passed","time":{"start":1665946379184,"stop":1665946379267,"duration":83}}]},"fa85d685a7f729d5e1ef019d0a5f0438":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"427786898e04c53c","status":"passed","time":{"start":1665946396522,"stop":1665946402181,"duration":5659}}]},"31ee7ec00f7522da4f8ca6f7ad5e1c15":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"ae518d14e6b75d52","status":"passed","time":{"start":1665942202981,"stop":1665942203784,"duration":803}}]},"ae6cd8822ef2d9cc9c7f24a668dd11de":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"46dce1fc4452b661","status":"passed","time":{"start":1665514377972,"stop":1665514377972,"duration":0}}]},"8984c1dc9bcdbc115e71c6520288b1c9":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"f43ddf716e7938e","status":"passed","time":{"start":1665946393434,"stop":1665946394359,"duration":925}}]},"88a8057541a22fe83198e95014fa10b9":{"statistic":{"failed":0,"broken":1,"skipped":0,"passed":0,"unknown":0,"total":1},"items":[{"uid":"eb06a1262116a500","status":"broken","statusDetails":"Method Lecture9.Lecture9_2Test.test3() didn't finish within the time-out 1000","time":{"start":1665946379305,"stop":1665946380775,"duration":1470}}]},"ec9cb9e57719aedf4e660abadb9d3b96":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"80e10d6477261906","status":"passed","time":{"start":1665942228365,"stop":1665942231938,"duration":3573}}]},"7286a92abd17e2df04dd969999ebe2e9":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"3752ab76722f4e92","status":"passed","time":{"start":1665946385772,"stop":1665946385793,"duration":21}}]},"392aeea2e8da359987e8f0a87f0cd3b4":{"statistic":{"failed":0,"broken":0,"skipped":1,"passed":0,"unknown":0,"total":1},"items":[{"uid":"1043ddd9f3f57dc9","status":"skipped","statusDetails":"Method Lecture9.Lecture9_2Test.test4() on instance Lecture9.Lecture9_2Test@c6e0f32 depends on not successfully finished methods \n[Lecture9.Lecture9_2Test.test3() on instance Lecture9.Lecture9_2Test@c6e0f32]","time":{"start":1665946380947,"stop":1665946380949,"duration":2}}]},"c43875b010ee3d2168a0099f6ae44574":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"5eaafe06d8edacd5","status":"passed","time":{"start":1665941894377,"stop":1665941924711,"duration":30334}}]},"cd66cf12a40ca942588bfa96dada836b":{"statistic":{"failed":0,"broken":0,"skipped":1,"passed":0,"unknown":0,"total":1},"items":[{"uid":"253ba4c0c0ee72b","status":"skipped","statusDetails":"Could not start a new session. Response code 500. Message: session not created\nfrom disconnected: received Inspector.detached event\n  (Session info: chrome=105.0.5195.127) \nHost info: host: 'HUGO-PC', ip: '192.168.0.102'\nBuild info: version: '4.5.0', revision: 'fe167b119a'\nSystem info: os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '11.0.15.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [start-maximized], extensions: []}}], desiredCapabilities=Capabilities {browserName: chrome, goog:chromeOptions: {args: [start-maximized], extensions: []}}}]","time":{"start":1665514325194,"stop":1665514325196,"duration":2}}]},"c2d9765ac97134514e85ba360d7d528b":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"4db337ed3fd21b79","status":"passed","time":{"start":1665514377950,"stop":1665514377951,"duration":1}}]},"ef1aaa4dae274df1375d0386ed0b956f":{"statistic":{"failed":0,"broken":0,"skipped":1,"passed":0,"unknown":0,"total":1},"items":[{"uid":"4ec60bb9d4b21d0a","status":"skipped","statusDetails":"Could not start a new session. Response code 500. Message: session not created\nfrom disconnected: received Inspector.detached event\n  (Session info: chrome=105.0.5195.127) \nHost info: host: 'HUGO-PC', ip: '192.168.0.102'\nBuild info: version: '4.5.0', revision: 'fe167b119a'\nSystem info: os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '11.0.15.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [start-maximized], extensions: []}}], desiredCapabilities=Capabilities {browserName: chrome, goog:chromeOptions: {args: [start-maximized], extensions: []}}}]","time":{"start":1665514325161,"stop":1665514325162,"duration":1}}]},"e27980198bc71def851ec1deae79e30e":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"17f4869f21d8ce16","status":"passed","time":{"start":1665514377491,"stop":1665514377528,"duration":37}}]},"2da9aae15928e30ef02b732a203bb65b":{"statistic":{"failed":0,"broken":1,"skipped":0,"passed":0,"unknown":0,"total":1},"items":[{"uid":"a5fa6d8654a004bb","status":"broken","statusDetails":"no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#loading\"}\n  (Session info: chrome=105.0.5195.127)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element\nBuild info: version: '4.5.0', revision: 'fe167b119a'\nSystem info: os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '11.0.15.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [9f8c35c4158f5513e4f8cb85bb91accd, findElement {using=id, value=loading}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.127, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: C:\\Users\\hugo\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:55327}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:55327/devtoo..., se:cdpVersion: 105.0.5195.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 9f8c35c4158f5513e4f8cb85bb91accd","time":{"start":1665942204108,"stop":1665942225096,"duration":20988}}]},"f1f2664426ce9fca3021aeb52ac6391d":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":0,"unknown":1,"total":1},"items":[{"uid":"8262287adfb480a3","status":"unknown","time":{"start":1665946377716,"stop":1665946377722,"duration":6}}]},"cfb8d7912afd1adc6177abffc9e19e09":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"cf4e2b6c71af40ee","status":"passed","time":{"start":1665514119883,"stop":1665514120674,"duration":791}}]},"4c7020df029ab0ed84b7561f3b4775be":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"fc3ffd44b6016ffa","status":"passed","time":{"start":1665943120164,"stop":1665943127889,"duration":7725}}]},"a713e2f18e059ad18281359c9a754431":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"80c2d15f5fddca60","status":"passed","time":{"start":1665514377963,"stop":1665514377965,"duration":2}}]},"6a6b310b0bf5b54e61895fab7ada2533":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"8274776b52b70bdd","status":"passed","time":{"start":1665514349045,"stop":1665514350979,"duration":1934}}]},"b133230c3f42cacda9b389164cd76535":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"5eccf1fb94cb4e53","status":"passed","time":{"start":1665942225511,"stop":1665942228066,"duration":2555}}]},"3f1014216a8e0c7cadae2baf70764c4":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"26276ab9f4951d1b","status":"passed","time":{"start":1665946395625,"stop":1665946396305,"duration":680}}]},"475da724db97bb5b1b4d260665c2afea":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"d30071c854d12ccc","status":"passed","time":{"start":1665946379184,"stop":1665946379228,"duration":44}}]},"7d56b738224a724006eb264cb1886002":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"6770c305f9cc5d03","status":"passed","time":{"start":1665514121341,"stop":1665514122052,"duration":711}}]},"f14e958e59a5a729713bdabe6fad3de5":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"cc6cb2c70316b73d","status":"passed","time":{"start":1665946394685,"stop":1665946395331,"duration":646}}]},"5ec1a8e54b354ed4cdf0504d8f0c6613":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"50d3a7110f6483eb","status":"passed","time":{"start":1665514118199,"stop":1665514119114,"duration":915}}]},"3568e30a2da4efb3b29dc09d5fb6ba1b":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"c1d8d6dbf11a9f11","status":"passed","time":{"start":1665946381614,"stop":1665946382631,"duration":1017}}]}}
+{
+  "1ccb1626d8d38b802730845b4ac8884e": {
+    "statistic": {
+      "failed": 0,
+      "broken": 0,
+      "skipped": 1,
+      "passed": 0,
+      "unknown": 0,
+      "total": 1
+    },
+    "items": [
+      {
+        "uid": "323f743e8665e94b",
+        "status": "skipped",
+        "statusDetails": "Could not start a new session. Response code 500. Message: session not created\nfrom disconnected: received Inspector.detached event\n  (Session info: chrome=105.0.5195.127) \nHost info: host: 'HUGO-PC', ip: '192.168.0.102'\nBuild info: version: '4.5.0', revision: 'fe167b119a'\nSystem info: os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '11.0.15.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [start-maximized], extensions: []}}], desiredCapabilities=Capabilities {browserName: chrome, goog:chromeOptions: {args: [start-maximized], extensions: []}}}]",
+        "time": {
+          "start": 1665514325144,
+          "stop": 1665514325147,
+          "duration": 3
+        }
+      }
+    ]
+  },
+  "eaf7a250bbd2499d0088695f5bb9ba14": {
+    "statistic": {
+      "failed": 0,
+      "broken": 0,
+      "skipped": 0,
+      "passed": 1,
+      "unknown": 0,
+      "total": 1
+    },
+    "items": [
+      {
+        "uid": "9a5260bf887439dd",
+        "status": "passed",
+        "time": {
+          "start": 1665946379279,
+          "stop": 1665946379282,
+          "duration": 3
+        }
+      }
+    ]
+  },
+  "6f208079bd8c7fea645bc7180eecb552": {
+    "statistic": {
+      "failed": 0,
+      "broken": 0,
+      "skipped": 1,
+      "passed": 0,
+      "unknown": 0,
+      "total": 1
+    },
+    "items": [
+      {
+        "uid": "9fed195d140f4c3c",
+        "status": "skipped",
+        "statusDetails": "Could not start a new session. Response code 500. Message: session not created\nfrom disconnected: received Inspector.detached event\n  (Session info: chrome=105.0.5195.127) \nHost info: host: 'HUGO-PC', ip: '192.168.0.102'\nBuild info: version: '4.5.0', revision: 'fe167b119a'\nSystem info: os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '11.0.15.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [start-maximized], extensions: []}}], desiredCapabilities=Capabilities {browserName: chrome, goog:chromeOptions: {args: [start-maximized], extensions: []}}}]",
+        "time": {
+          "start": 1665514325172,
+          "stop": 1665514325173,
+          "duration": 1
+        }
+      }
+    ]
+  },
+  "b5caaba5199063d49a4d5f1ee4483b44": {
+    "statistic": {
+      "failed": 0,
+      "broken": 1,
+      "skipped": 0,
+      "passed": 0,
+      "unknown": 0,
+      "total": 1
+    },
+    "items": [
+      {
+        "uid": "444661061b2bb3ac",
+        "status": "broken",
+        "statusDetails": "Could not start a new session. Response code 500. Message: session not created\nfrom disconnected: received Inspector.detached event\n  (Session info: chrome=105.0.5195.127) \nHost info: host: 'HUGO-PC', ip: '192.168.0.102'\nBuild info: version: '4.5.0', revision: 'fe167b119a'\nSystem info: os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '11.0.15.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [start-maximized], extensions: []}}], desiredCapabilities=Capabilities {browserName: chrome, goog:chromeOptions: {args: [start-maximized], extensions: []}}}]",
+        "time": {
+          "start": 1665514324461,
+          "stop": 1665514324471,
+          "duration": 10
+        }
+      }
+    ]
+  },
+  "e7573a089f4cc0bcc7c848b8ea5880fb": {
+    "statistic": {
+      "failed": 0,
+      "broken": 0,
+      "skipped": 0,
+      "passed": 1,
+      "unknown": 0,
+      "total": 1
+    },
+    "items": [
+      {
+        "uid": "9af61ca5a08edb0a",
+        "status": "passed",
+        "time": {
+          "start": 1665514122652,
+          "stop": 1665514123325,
+          "duration": 673
+        }
+      }
+    ]
+  },
+  "17d370a62c3f4d3f52430e8832a3cf46": {
+    "statistic": {
+      "failed": 0,
+      "broken": 0,
+      "skipped": 0,
+      "passed": 1,
+      "unknown": 0,
+      "total": 1
+    },
+    "items": [
+      {
+        "uid": "2ae3b64e001966ef",
+        "status": "passed",
+        "time": {
+          "start": 1665946379184,
+          "stop": 1665946379267,
+          "duration": 83
+        }
+      }
+    ]
+  },
+  "fa85d685a7f729d5e1ef019d0a5f0438": {
+    "statistic": {
+      "failed": 0,
+      "broken": 0,
+      "skipped": 0,
+      "passed": 1,
+      "unknown": 0,
+      "total": 1
+    },
+    "items": [
+      {
+        "uid": "427786898e04c53c",
+        "status": "passed",
+        "time": {
+          "start": 1665946396522,
+          "stop": 1665946402181,
+          "duration": 5659
+        }
+      }
+    ]
+  },
+  "31ee7ec00f7522da4f8ca6f7ad5e1c15": {
+    "statistic": {
+      "failed": 0,
+      "broken": 0,
+      "skipped": 0,
+      "passed": 1,
+      "unknown": 0,
+      "total": 1
+    },
+    "items": [
+      {
+        "uid": "ae518d14e6b75d52",
+        "status": "passed",
+        "time": {
+          "start": 1665942202981,
+          "stop": 1665942203784,
+          "duration": 803
+        }
+      }
+    ]
+  },
+  "ae6cd8822ef2d9cc9c7f24a668dd11de": {
+    "statistic": {
+      "failed": 0,
+      "broken": 0,
+      "skipped": 0,
+      "passed": 1,
+      "unknown": 0,
+      "total": 1
+    },
+    "items": [
+      {
+        "uid": "46dce1fc4452b661",
+        "status": "passed",
+        "time": {
+          "start": 1665514377972,
+          "stop": 1665514377972,
+          "duration": 0
+        }
+      }
+    ]
+  },
+  "8984c1dc9bcdbc115e71c6520288b1c9": {
+    "statistic": {
+      "failed": 0,
+      "broken": 0,
+      "skipped": 0,
+      "passed": 1,
+      "unknown": 0,
+      "total": 1
+    },
+    "items": [
+      {
+        "uid": "f43ddf716e7938e",
+        "status": "passed",
+        "time": {
+          "start": 1665946393434,
+          "stop": 1665946394359,
+          "duration": 925
+        }
+      }
+    ]
+  },
+  "88a8057541a22fe83198e95014fa10b9": {
+    "statistic": {
+      "failed": 0,
+      "broken": 1,
+      "skipped": 0,
+      "passed": 0,
+      "unknown": 0,
+      "total": 1
+    },
+    "items": [
+      {
+        "uid": "eb06a1262116a500",
+        "status": "broken",
+        "statusDetails": "Method Lecture9.Lecture9_2Test.test3() didn't finish within the time-out 1000",
+        "time": {
+          "start": 1665946379305,
+          "stop": 1665946380775,
+          "duration": 1470
+        }
+      }
+    ]
+  },
+  "ec9cb9e57719aedf4e660abadb9d3b96": {
+    "statistic": {
+      "failed": 0,
+      "broken": 0,
+      "skipped": 0,
+      "passed": 1,
+      "unknown": 0,
+      "total": 1
+    },
+    "items": [
+      {
+        "uid": "80e10d6477261906",
+        "status": "passed",
+        "time": {
+          "start": 1665942228365,
+          "stop": 1665942231938,
+          "duration": 3573
+        }
+      }
+    ]
+  },
+  "7286a92abd17e2df04dd969999ebe2e9": {
+    "statistic": {
+      "failed": 0,
+      "broken": 0,
+      "skipped": 0,
+      "passed": 1,
+      "unknown": 0,
+      "total": 1
+    },
+    "items": [
+      {
+        "uid": "3752ab76722f4e92",
+        "status": "passed",
+        "time": {
+          "start": 1665946385772,
+          "stop": 1665946385793,
+          "duration": 21
+        }
+      }
+    ]
+  },
+  "392aeea2e8da359987e8f0a87f0cd3b4": {
+    "statistic": {
+      "failed": 0,
+      "broken": 0,
+      "skipped": 1,
+      "passed": 0,
+      "unknown": 0,
+      "total": 1
+    },
+    "items": [
+      {
+        "uid": "1043ddd9f3f57dc9",
+        "status": "skipped",
+        "statusDetails": "Method Lecture9.Lecture9_2Test.test4() on instance Lecture9.Lecture9_2Test@c6e0f32 depends on not successfully finished methods \n[Lecture9.Lecture9_2Test.test3() on instance Lecture9.Lecture9_2Test@c6e0f32]",
+        "time": {
+          "start": 1665946380947,
+          "stop": 1665946380949,
+          "duration": 2
+        }
+      }
+    ]
+  },
+  "c43875b010ee3d2168a0099f6ae44574": {
+    "statistic": {
+      "failed": 0,
+      "broken": 0,
+      "skipped": 0,
+      "passed": 1,
+      "unknown": 0,
+      "total": 1
+    },
+    "items": [
+      {
+        "uid": "5eaafe06d8edacd5",
+        "status": "passed",
+        "time": {
+          "start": 1665941894377,
+          "stop": 1665941924711,
+          "duration": 30334
+        }
+      }
+    ]
+  },
+  "cd66cf12a40ca942588bfa96dada836b": {
+    "statistic": {
+      "failed": 0,
+      "broken": 0,
+      "skipped": 1,
+      "passed": 0,
+      "unknown": 0,
+      "total": 1
+    },
+    "items": [
+      {
+        "uid": "253ba4c0c0ee72b",
+        "status": "skipped",
+        "statusDetails": "Could not start a new session. Response code 500. Message: session not created\nfrom disconnected: received Inspector.detached event\n  (Session info: chrome=105.0.5195.127) \nHost info: host: 'HUGO-PC', ip: '192.168.0.102'\nBuild info: version: '4.5.0', revision: 'fe167b119a'\nSystem info: os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '11.0.15.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [start-maximized], extensions: []}}], desiredCapabilities=Capabilities {browserName: chrome, goog:chromeOptions: {args: [start-maximized], extensions: []}}}]",
+        "time": {
+          "start": 1665514325194,
+          "stop": 1665514325196,
+          "duration": 2
+        }
+      }
+    ]
+  },
+  "c2d9765ac97134514e85ba360d7d528b": {
+    "statistic": {
+      "failed": 0,
+      "broken": 0,
+      "skipped": 0,
+      "passed": 1,
+      "unknown": 0,
+      "total": 1
+    },
+    "items": [
+      {
+        "uid": "4db337ed3fd21b79",
+        "status": "passed",
+        "time": {
+          "start": 1665514377950,
+          "stop": 1665514377951,
+          "duration": 1
+        }
+      }
+    ]
+  },
+  "ef1aaa4dae274df1375d0386ed0b956f": {
+    "statistic": {
+      "failed": 0,
+      "broken": 0,
+      "skipped": 1,
+      "passed": 0,
+      "unknown": 0,
+      "total": 1
+    },
+    "items": [
+      {
+        "uid": "4ec60bb9d4b21d0a",
+        "status": "skipped",
+        "statusDetails": "Could not start a new session. Response code 500. Message: session not created\nfrom disconnected: received Inspector.detached event\n  (Session info: chrome=105.0.5195.127) \nHost info: host: 'HUGO-PC', ip: '192.168.0.102'\nBuild info: version: '4.5.0', revision: 'fe167b119a'\nSystem info: os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '11.0.15.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [start-maximized], extensions: []}}], desiredCapabilities=Capabilities {browserName: chrome, goog:chromeOptions: {args: [start-maximized], extensions: []}}}]",
+        "time": {
+          "start": 1665514325161,
+          "stop": 1665514325162,
+          "duration": 1
+        }
+      }
+    ]
+  },
+  "e27980198bc71def851ec1deae79e30e": {
+    "statistic": {
+      "failed": 0,
+      "broken": 0,
+      "skipped": 0,
+      "passed": 1,
+      "unknown": 0,
+      "total": 1
+    },
+    "items": [
+      {
+        "uid": "17f4869f21d8ce16",
+        "status": "passed",
+        "time": {
+          "start": 1665514377491,
+          "stop": 1665514377528,
+          "duration": 37
+        }
+      }
+    ]
+  },
+  "2da9aae15928e30ef02b732a203bb65b": {
+    "statistic": {
+      "failed": 0,
+      "broken": 1,
+      "skipped": 0,
+      "passed": 0,
+      "unknown": 0,
+      "total": 1
+    },
+    "items": [
+      {
+        "uid": "a5fa6d8654a004bb",
+        "status": "broken",
+        "statusDetails": "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#loading\"}\n  (Session info: chrome=105.0.5195.127)\nFor documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element\nBuild info: version: '4.5.0', revision: 'fe167b119a'\nSystem info: os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '11.0.15.1'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCommand: [9f8c35c4158f5513e4f8cb85bb91accd, findElement {using=id, value=loading}]\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 105.0.5195.127, chrome: {chromedriverVersion: 105.0.5195.52 (412c95e51883..., userDataDir: C:\\Users\\hugo\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:55327}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:55327/devtoo..., se:cdpVersion: 105.0.5195.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 9f8c35c4158f5513e4f8cb85bb91accd",
+        "time": {
+          "start": 1665942204108,
+          "stop": 1665942225096,
+          "duration": 20988
+        }
+      }
+    ]
+  },
+  "f1f2664426ce9fca3021aeb52ac6391d": {
+    "statistic": {
+      "failed": 0,
+      "broken": 0,
+      "skipped": 0,
+      "passed": 0,
+      "unknown": 1,
+      "total": 1
+    },
+    "items": [
+      {
+        "uid": "8262287adfb480a3",
+        "status": "unknown",
+        "time": {
+          "start": 1665946377716,
+          "stop": 1665946377722,
+          "duration": 6
+        }
+      }
+    ]
+  },
+  "cfb8d7912afd1adc6177abffc9e19e09": {
+    "statistic": {
+      "failed": 0,
+      "broken": 0,
+      "skipped": 0,
+      "passed": 1,
+      "unknown": 0,
+      "total": 1
+    },
+    "items": [
+      {
+        "uid": "cf4e2b6c71af40ee",
+        "status": "passed",
+        "time": {
+          "start": 1665514119883,
+          "stop": 1665514120674,
+          "duration": 791
+        }
+      }
+    ]
+  },
+  "4c7020df029ab0ed84b7561f3b4775be": {
+    "statistic": {
+      "failed": 0,
+      "broken": 0,
+      "skipped": 0,
+      "passed": 1,
+      "unknown": 0,
+      "total": 1
+    },
+    "items": [
+      {
+        "uid": "fc3ffd44b6016ffa",
+        "status": "passed",
+        "time": {
+          "start": 1665943120164,
+          "stop": 1665943127889,
+          "duration": 7725
+        }
+      }
+    ]
+  },
+  "a713e2f18e059ad18281359c9a754431": {
+    "statistic": {
+      "failed": 0,
+      "broken": 0,
+      "skipped": 0,
+      "passed": 1,
+      "unknown": 0,
+      "total": 1
+    },
+    "items": [
+      {
+        "uid": "80c2d15f5fddca60",
+        "status": "passed",
+        "time": {
+          "start": 1665514377963,
+          "stop": 1665514377965,
+          "duration": 2
+        }
+      }
+    ]
+  },
+  "6a6b310b0bf5b54e61895fab7ada2533": {
+    "statistic": {
+      "failed": 0,
+      "broken": 0,
+      "skipped": 0,
+      "passed": 1,
+      "unknown": 0,
+      "total": 1
+    },
+    "items": [
+      {
+        "uid": "8274776b52b70bdd",
+        "status": "passed",
+        "time": {
+          "start": 1665514349045,
+          "stop": 1665514350979,
+          "duration": 1934
+        }
+      }
+    ]
+  },
+  "b133230c3f42cacda9b389164cd76535": {
+    "statistic": {
+      "failed": 0,
+      "broken": 0,
+      "skipped": 0,
+      "passed": 1,
+      "unknown": 0,
+      "total": 1
+    },
+    "items": [
+      {
+        "uid": "5eccf1fb94cb4e53",
+        "status": "passed",
+        "time": {
+          "start": 1665942225511,
+          "stop": 1665942228066,
+          "duration": 2555
+        }
+      }
+    ]
+  },
+  "3f1014216a8e0c7cadae2baf70764c4": {
+    "statistic": {
+      "failed": 0,
+      "broken": 0,
+      "skipped": 0,
+      "passed": 1,
+      "unknown": 0,
+      "total": 1
+    },
+    "items": [
+      {
+        "uid": "26276ab9f4951d1b",
+        "status": "passed",
+        "time": {
+          "start": 1665946395625,
+          "stop": 1665946396305,
+          "duration": 680
+        }
+      }
+    ]
+  },
+  "475da724db97bb5b1b4d260665c2afea": {
+    "statistic": {
+      "failed": 0,
+      "broken": 0,
+      "skipped": 0,
+      "passed": 1,
+      "unknown": 0,
+      "total": 1
+    },
+    "items": [
+      {
+        "uid": "d30071c854d12ccc",
+        "status": "passed",
+        "time": {
+          "start": 1665946379184,
+          "stop": 1665946379228,
+          "duration": 44
+        }
+      }
+    ]
+  },
+  "7d56b738224a724006eb264cb1886002": {
+    "statistic": {
+      "failed": 0,
+      "broken": 0,
+      "skipped": 0,
+      "passed": 1,
+      "unknown": 0,
+      "total": 1
+    },
+    "items": [
+      {
+        "uid": "6770c305f9cc5d03",
+        "status": "passed",
+        "time": {
+          "start": 1665514121341,
+          "stop": 1665514122052,
+          "duration": 711
+        }
+      }
+    ]
+  },
+  "f14e958e59a5a729713bdabe6fad3de5": {
+    "statistic": {
+      "failed": 0,
+      "broken": 0,
+      "skipped": 0,
+      "passed": 1,
+      "unknown": 0,
+      "total": 1
+    },
+    "items": [
+      {
+        "uid": "cc6cb2c70316b73d",
+        "status": "passed",
+        "time": {
+          "start": 1665946394685,
+          "stop": 1665946395331,
+          "duration": 646
+        }
+      }
+    ]
+  },
+  "5ec1a8e54b354ed4cdf0504d8f0c6613": {
+    "statistic": {
+      "failed": 0,
+      "broken": 0,
+      "skipped": 0,
+      "passed": 1,
+      "unknown": 0,
+      "total": 1
+    },
+    "items": [
+      {
+        "uid": "50d3a7110f6483eb",
+        "status": "passed",
+        "time": {
+          "start": 1665514118199,
+          "stop": 1665514119114,
+          "duration": 915
+        }
+      }
+    ]
+  },
+  "3568e30a2da4efb3b29dc09d5fb6ba1b": {
+    "statistic": {
+      "failed": 0,
+      "broken": 0,
+      "skipped": 0,
+      "passed": 1,
+      "unknown": 0,
+      "total": 1
+    },
+    "items": [
+      {
+        "uid": "c1d8d6dbf11a9f11",
+        "status": "passed",
+        "time": {
+          "start": 1665946381614,
+          "stop": 1665946382631,
+          "duration": 1017
+        }
+      }
+    ]
+  }
+}

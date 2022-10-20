@@ -1,1 +1,61 @@
-{"uuid":"ac51f24e-039d-4131-838f-b9fbc8ac98ef","historyId":"475da724db97bb5b1b4d260665c2afea","fullName":"Lecture9.Lecture9_1Test.test1","labels":[{"name":"package","value":"Lecture9.Lecture9_1Test"},{"name":"testClass","value":"Lecture9.Lecture9_1Test"},{"name":"testMethod","value":"test1"},{"name":"parentSuite","value":"Default Suite"},{"name":"suite","value":"Automation_Alina_Osaulko"},{"name":"subSuite","value":"Lecture9.Lecture9_1Test"},{"name":"host","value":"hugo-pc"},{"name":"thread","value":"7188@hugo-pc.main(1)"},{"name":"framework","value":"testng"},{"name":"language","value":"java"}],"links":[],"name":"test1","status":"passed","statusDetails":{"known":false,"muted":false,"flaky":false},"stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1665516021905,"stop":1665516021921}
+{
+  "uuid": "ac51f24e-039d-4131-838f-b9fbc8ac98ef",
+  "historyId": "475da724db97bb5b1b4d260665c2afea",
+  "fullName": "Lecture9.Lecture9_1Test.test1",
+  "labels": [
+    {
+      "name": "package",
+      "value": "Lecture9.Lecture9_1Test"
+    },
+    {
+      "name": "testClass",
+      "value": "Lecture9.Lecture9_1Test"
+    },
+    {
+      "name": "testMethod",
+      "value": "test1"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default Suite"
+    },
+    {
+      "name": "suite",
+      "value": "Automation_Alina_Osaulko"
+    },
+    {
+      "name": "subSuite",
+      "value": "Lecture9.Lecture9_1Test"
+    },
+    {
+      "name": "host",
+      "value": "hugo-pc"
+    },
+    {
+      "name": "thread",
+      "value": "7188@hugo-pc.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "test1",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1665516021905,
+  "stop": 1665516021921
+}

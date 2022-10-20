@@ -1,1 +1,61 @@
-{"uuid":"3ba04285-1960-491d-8641-191465fb17ae","historyId":"ec9cb9e57719aedf4e660abadb9d3b96","fullName":"Lecture_8.Lecture8_2.scrollPage_Test","labels":[{"name":"package","value":"Lecture_8.Lecture8_2"},{"name":"testClass","value":"Lecture_8.Lecture8_2"},{"name":"testMethod","value":"scrollPage_Test"},{"name":"parentSuite","value":"Lecture 8"},{"name":"suite","value":"Lecture 8 2 tests"},{"name":"subSuite","value":"Lecture_8.Lecture8_2"},{"name":"host","value":"hugo-pc"},{"name":"thread","value":"5216@hugo-pc.TestNG-tests-1(18)"},{"name":"framework","value":"testng"},{"name":"language","value":"java"}],"links":[],"name":"scrollPage_Test","status":"passed","statusDetails":{"known":false,"muted":false,"flaky":false},"stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1665941948241,"stop":1665941952405}
+{
+  "uuid": "3ba04285-1960-491d-8641-191465fb17ae",
+  "historyId": "ec9cb9e57719aedf4e660abadb9d3b96",
+  "fullName": "Lecture_8.Lecture8_2.scrollPage_Test",
+  "labels": [
+    {
+      "name": "package",
+      "value": "Lecture_8.Lecture8_2"
+    },
+    {
+      "name": "testClass",
+      "value": "Lecture_8.Lecture8_2"
+    },
+    {
+      "name": "testMethod",
+      "value": "scrollPage_Test"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Lecture 8"
+    },
+    {
+      "name": "suite",
+      "value": "Lecture 8 2 tests"
+    },
+    {
+      "name": "subSuite",
+      "value": "Lecture_8.Lecture8_2"
+    },
+    {
+      "name": "host",
+      "value": "hugo-pc"
+    },
+    {
+      "name": "thread",
+      "value": "5216@hugo-pc.TestNG-tests-1(18)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "scrollPage_Test",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1665941948241,
+  "stop": 1665941952405
+}

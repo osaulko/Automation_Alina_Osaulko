@@ -1,1 +1,24 @@
-{"uuid":"c742eb3a-0065-463f-bba0-f15af3a309fd","name":"Lecture9.Lecture9_2Test.afterMethod","children":["95b1df19-5672-4f4b-b54c-c86c17ff1cc4"],"description":"","befores":[],"afters":[{"name":"afterMethod","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1665946379286,"stop":1665946379289}],"start":1665946379286,"stop":1665946379289}
+{
+  "uuid": "c742eb3a-0065-463f-bba0-f15af3a309fd",
+  "name": "Lecture9.Lecture9_2Test.afterMethod",
+  "children": [
+    "95b1df19-5672-4f4b-b54c-c86c17ff1cc4"
+  ],
+  "description": "",
+  "befores": [],
+  "afters": [
+    {
+      "name": "afterMethod",
+      "status": "passed",
+      "stage": "finished",
+      "description": "",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1665946379286,
+      "stop": 1665946379289
+    }
+  ],
+  "start": 1665946379286,
+  "stop": 1665946379289
+}

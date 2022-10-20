@@ -1,0 +1,146 @@
+{
+  "uid": "3cd65e493c7f1354",
+  "name": "test2",
+  "fullName": "Lecture9.Lecture9_1Test.test2",
+  "historyId": "17d370a62c3f4d3f52430e8832a3cf46",
+  "time": {
+    "start": 1665678662148,
+    "stop": 1665678662148,
+    "duration": 0
+  },
+  "status": "passed",
+  "flaky": false,
+  "newFailed": false,
+  "newBroken": false,
+  "newPassed": false,
+  "retriesCount": 0,
+  "retriesStatusChange": false,
+  "beforeStages": [
+    {
+      "name": "beforeSuite",
+      "time": {
+        "start": 1665678661280,
+        "stop": 1665678661298,
+        "duration": 18
+      },
+      "description": "",
+      "status": "passed",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "attachmentsCount": 0,
+      "shouldDisplayMessage": false,
+      "stepsCount": 0,
+      "hasContent": false
+    },
+    {
+      "name": "beforeMethod",
+      "time": {
+        "start": 1665678661651,
+        "stop": 1665678661651,
+        "duration": 0
+      },
+      "description": "",
+      "status": "passed",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "attachmentsCount": 0,
+      "shouldDisplayMessage": false,
+      "stepsCount": 0,
+      "hasContent": false
+    }
+  ],
+  "afterStages": [
+    {
+      "name": "afterMethod",
+      "time": {
+        "start": 1665678662152,
+        "stop": 1665678662152,
+        "duration": 0
+      },
+      "description": "",
+      "status": "passed",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "attachmentsCount": 0,
+      "shouldDisplayMessage": false,
+      "stepsCount": 0,
+      "hasContent": false
+    },
+    {
+      "name": "afterSuite",
+      "time": {
+        "start": 1665678688591,
+        "stop": 1665678688592,
+        "duration": 1
+      },
+      "description": "",
+      "status": "passed",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "attachmentsCount": 0,
+      "shouldDisplayMessage": false,
+      "stepsCount": 0,
+      "hasContent": false
+    }
+  ],
+  "labels": [
+    {
+      "name": "package",
+      "value": "Lecture9.Lecture9_1Test"
+    },
+    {
+      "name": "testClass",
+      "value": "Lecture9.Lecture9_1Test"
+    },
+    {
+      "name": "testMethod",
+      "value": "test2"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Lecture 9"
+    },
+    {
+      "name": "suite",
+      "value": "Lecture 9 test 1.2"
+    },
+    {
+      "name": "subSuite",
+      "value": "Lecture9.Lecture9_1Test"
+    },
+    {
+      "name": "host",
+      "value": "hugo-pc"
+    },
+    {
+      "name": "thread",
+      "value": "5348@hugo-pc.TestNG-tests-2(19)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    },
+    {
+      "name": "resultFormat",
+      "value": "allure2"
+    }
+  ],
+  "parameters": [],
+  "links": [],
+  "hidden": true,
+  "retry": true,
+  "extra": {
+    "categories": [],
+    "tags": []
+  },
+  "source": "3cd65e493c7f1354.json",
+  "parameterValues": []
+}

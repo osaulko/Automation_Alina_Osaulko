@@ -1,1 +1,61 @@
-{"uuid":"a2c77fdf-3198-4d83-8050-e6e2a3d58748","historyId":"b133230c3f42cacda9b389164cd76535","fullName":"Lecture_8.Lecture8_2.frame_Test","labels":[{"name":"package","value":"Lecture_8.Lecture8_2"},{"name":"testClass","value":"Lecture_8.Lecture8_2"},{"name":"testMethod","value":"frame_Test"},{"name":"parentSuite","value":"Lecture 8"},{"name":"suite","value":"Lecture 8 2 tests"},{"name":"subSuite","value":"Lecture_8.Lecture8_2"},{"name":"host","value":"hugo-pc"},{"name":"thread","value":"2440@hugo-pc.TestNG-tests-1(18)"},{"name":"framework","value":"testng"},{"name":"language","value":"java"}],"links":[],"name":"frame_Test","status":"passed","statusDetails":{"known":false,"muted":false,"flaky":false},"stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1665941522151,"stop":1665941525735}
+{
+  "uuid": "a2c77fdf-3198-4d83-8050-e6e2a3d58748",
+  "historyId": "b133230c3f42cacda9b389164cd76535",
+  "fullName": "Lecture_8.Lecture8_2.frame_Test",
+  "labels": [
+    {
+      "name": "package",
+      "value": "Lecture_8.Lecture8_2"
+    },
+    {
+      "name": "testClass",
+      "value": "Lecture_8.Lecture8_2"
+    },
+    {
+      "name": "testMethod",
+      "value": "frame_Test"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Lecture 8"
+    },
+    {
+      "name": "suite",
+      "value": "Lecture 8 2 tests"
+    },
+    {
+      "name": "subSuite",
+      "value": "Lecture_8.Lecture8_2"
+    },
+    {
+      "name": "host",
+      "value": "hugo-pc"
+    },
+    {
+      "name": "thread",
+      "value": "2440@hugo-pc.TestNG-tests-1(18)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "frame_Test",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1665941522151,
+  "stop": 1665941525735
+}

@@ -1,0 +1,203 @@
+{
+  "uid": "34cbdb0c4bdb58f6",
+  "name": "test2",
+  "fullName": "Lecture9.Lecture9_1Test.test2",
+  "historyId": "17d370a62c3f4d3f52430e8832a3cf46",
+  "time": {
+    "start": 1665946379184,
+    "stop": 1665946379267,
+    "duration": 83
+  },
+  "status": "passed",
+  "flaky": false,
+  "newFailed": false,
+  "newBroken": false,
+  "newPassed": false,
+  "retriesCount": 6,
+  "retriesStatusChange": false,
+  "beforeStages": [
+    {
+      "name": "beforeSuite",
+      "time": {
+        "start": 1665946377263,
+        "stop": 1665946377281,
+        "duration": 18
+      },
+      "description": "",
+      "status": "passed",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "attachmentsCount": 0,
+      "shouldDisplayMessage": false,
+      "stepsCount": 0,
+      "hasContent": false
+    },
+    {
+      "name": "beforeMethod",
+      "time": {
+        "start": 1665946379044,
+        "stop": 1665946379044,
+        "duration": 0
+      },
+      "description": "",
+      "status": "passed",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "attachmentsCount": 0,
+      "shouldDisplayMessage": false,
+      "stepsCount": 0,
+      "hasContent": false
+    }
+  ],
+  "afterStages": [
+    {
+      "name": "afterMethod",
+      "time": {
+        "start": 1665946379271,
+        "stop": 1665946379271,
+        "duration": 0
+      },
+      "description": "",
+      "status": "passed",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "attachmentsCount": 0,
+      "shouldDisplayMessage": false,
+      "stepsCount": 0,
+      "hasContent": false
+    },
+    {
+      "name": "afterSuite",
+      "time": {
+        "start": 1665946404308,
+        "stop": 1665946404308,
+        "duration": 0
+      },
+      "description": "",
+      "status": "passed",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "attachmentsCount": 0,
+      "shouldDisplayMessage": false,
+      "stepsCount": 0,
+      "hasContent": false
+    }
+  ],
+  "labels": [
+    {
+      "name": "package",
+      "value": "Lecture9.Lecture9_1Test"
+    },
+    {
+      "name": "testClass",
+      "value": "Lecture9.Lecture9_1Test"
+    },
+    {
+      "name": "testMethod",
+      "value": "test2"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Lecture 9"
+    },
+    {
+      "name": "suite",
+      "value": "Lecture 9 test 1.2"
+    },
+    {
+      "name": "subSuite",
+      "value": "Lecture9.Lecture9_1Test"
+    },
+    {
+      "name": "host",
+      "value": "hugo-pc"
+    },
+    {
+      "name": "thread",
+      "value": "7624@hugo-pc.TestNG-tests-2(19)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    },
+    {
+      "name": "resultFormat",
+      "value": "allure2"
+    }
+  ],
+  "parameters": [],
+  "links": [],
+  "hidden": false,
+  "retry": false,
+  "extra": {
+    "severity": "normal",
+    "retries": [
+      {
+        "uid": "d374b377ca9e4f09",
+        "status": "passed",
+        "time": {
+          "start": 1665937154775,
+          "stop": 1665937154785,
+          "duration": 10
+        }
+      },
+      {
+        "uid": "965b9d3b98fda75c",
+        "status": "passed",
+        "time": {
+          "start": 1665936615567,
+          "stop": 1665936615577,
+          "duration": 10
+        }
+      },
+      {
+        "uid": "3270211d8599bfcd",
+        "status": "passed",
+        "time": {
+          "start": 1665680621117,
+          "stop": 1665680621118,
+          "duration": 1
+        }
+      },
+      {
+        "uid": "617c363b45cb4e1d",
+        "status": "passed",
+        "time": {
+          "start": 1665679686071,
+          "stop": 1665679686071,
+          "duration": 0
+        }
+      },
+      {
+        "uid": "3cd65e493c7f1354",
+        "status": "passed",
+        "time": {
+          "start": 1665678662148,
+          "stop": 1665678662148,
+          "duration": 0
+        }
+      },
+      {
+        "uid": "84e08f44da049978",
+        "status": "passed",
+        "time": {
+          "start": 1665516021967,
+          "stop": 1665516021967,
+          "duration": 0
+        }
+      }
+    ],
+    "categories": [],
+    "tags": []
+  },
+  "source": "34cbdb0c4bdb58f6.json",
+  "parameterValues": []
+}

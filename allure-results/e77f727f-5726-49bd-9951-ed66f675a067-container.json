@@ -1,1 +1,38 @@
-{"uuid":"e77f727f-5726-49bd-9951-ed66f675a067","name":"Lecture 8 2 tests","children":["8252c11f-9948-4580-bba5-82468a8c8baf","45a60c5a-10ec-4525-b477-7ee4fc8275b6","7e4dee58-487e-4a67-9005-dc955f70f387","3ba04285-1960-491d-8641-191465fb17ae"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1665941877031,"stop":1665941894025}],"afters":[{"name":"stop","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1665941952407,"stop":1665941953229}],"start":1665941876668,"stop":1665941953230}
+{
+  "uuid": "e77f727f-5726-49bd-9951-ed66f675a067",
+  "name": "Lecture 8 2 tests",
+  "children": [
+    "8252c11f-9948-4580-bba5-82468a8c8baf",
+    "45a60c5a-10ec-4525-b477-7ee4fc8275b6",
+    "7e4dee58-487e-4a67-9005-dc955f70f387",
+    "3ba04285-1960-491d-8641-191465fb17ae"
+  ],
+  "befores": [
+    {
+      "name": "setUp",
+      "status": "passed",
+      "stage": "finished",
+      "description": "",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1665941877031,
+      "stop": 1665941894025
+    }
+  ],
+  "afters": [
+    {
+      "name": "stop",
+      "status": "passed",
+      "stage": "finished",
+      "description": "",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1665941952407,
+      "stop": 1665941953229
+    }
+  ],
+  "start": 1665941876668,
+  "stop": 1665941953230
+}

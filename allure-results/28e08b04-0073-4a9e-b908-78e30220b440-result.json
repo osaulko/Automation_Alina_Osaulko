@@ -1,1 +1,70 @@
-{"uuid":"28e08b04-0073-4a9e-b908-78e30220b440","historyId":"5ec1a8e54b354ed4cdf0504d8f0c6613","fullName":"HomeWork9.Task9_3Test.dataProviderTask","labels":[{"name":"package","value":"HomeWork9.Task9_3Test"},{"name":"testClass","value":"HomeWork9.Task9_3Test"},{"name":"testMethod","value":"dataProviderTask"},{"name":"parentSuite","value":"Default Suite"},{"name":"suite","value":"Automation_Alina_Osaulko"},{"name":"subSuite","value":"HomeWork9.Task9_3Test"},{"name":"host","value":"hugo-pc"},{"name":"thread","value":"8956@hugo-pc.main(1)"},{"name":"framework","value":"testng"},{"name":"language","value":"java"}],"links":[],"name":"dataProviderTask","status":"passed","statusDetails":{"known":false,"muted":false,"flaky":false},"stage":"finished","steps":[],"attachments":[],"parameters":[{"name":"arg1","value":"$29.99"},{"name":"arg0","value":"Sauce Labs Backpack"}],"start":1665514118199,"stop":1665514119114}
+{
+  "uuid": "28e08b04-0073-4a9e-b908-78e30220b440",
+  "historyId": "5ec1a8e54b354ed4cdf0504d8f0c6613",
+  "fullName": "HomeWork9.Task9_3Test.dataProviderTask",
+  "labels": [
+    {
+      "name": "package",
+      "value": "HomeWork9.Task9_3Test"
+    },
+    {
+      "name": "testClass",
+      "value": "HomeWork9.Task9_3Test"
+    },
+    {
+      "name": "testMethod",
+      "value": "dataProviderTask"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default Suite"
+    },
+    {
+      "name": "suite",
+      "value": "Automation_Alina_Osaulko"
+    },
+    {
+      "name": "subSuite",
+      "value": "HomeWork9.Task9_3Test"
+    },
+    {
+      "name": "host",
+      "value": "hugo-pc"
+    },
+    {
+      "name": "thread",
+      "value": "8956@hugo-pc.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "dataProviderTask",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [
+    {
+      "name": "arg1",
+      "value": "$29.99"
+    },
+    {
+      "name": "arg0",
+      "value": "Sauce Labs Backpack"
+    }
+  ],
+  "start": 1665514118199,
+  "stop": 1665514119114
+}

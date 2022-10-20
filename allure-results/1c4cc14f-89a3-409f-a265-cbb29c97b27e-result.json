@@ -1,1 +1,61 @@
-{"uuid":"1c4cc14f-89a3-409f-a265-cbb29c97b27e","historyId":"17d370a62c3f4d3f52430e8832a3cf46","fullName":"Lecture9.Lecture9_1Test.test2","labels":[{"name":"package","value":"Lecture9.Lecture9_1Test"},{"name":"testClass","value":"Lecture9.Lecture9_1Test"},{"name":"testMethod","value":"test2"},{"name":"parentSuite","value":"Lecture 9"},{"name":"suite","value":"Lecture 9 test 1.2"},{"name":"subSuite","value":"Lecture9.Lecture9_1Test"},{"name":"host","value":"hugo-pc"},{"name":"thread","value":"5348@hugo-pc.TestNG-tests-2(19)"},{"name":"framework","value":"testng"},{"name":"language","value":"java"}],"links":[],"name":"test2","status":"passed","statusDetails":{"known":false,"muted":false,"flaky":false},"stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1665678662148,"stop":1665678662148}
+{
+  "uuid": "1c4cc14f-89a3-409f-a265-cbb29c97b27e",
+  "historyId": "17d370a62c3f4d3f52430e8832a3cf46",
+  "fullName": "Lecture9.Lecture9_1Test.test2",
+  "labels": [
+    {
+      "name": "package",
+      "value": "Lecture9.Lecture9_1Test"
+    },
+    {
+      "name": "testClass",
+      "value": "Lecture9.Lecture9_1Test"
+    },
+    {
+      "name": "testMethod",
+      "value": "test2"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Lecture 9"
+    },
+    {
+      "name": "suite",
+      "value": "Lecture 9 test 1.2"
+    },
+    {
+      "name": "subSuite",
+      "value": "Lecture9.Lecture9_1Test"
+    },
+    {
+      "name": "host",
+      "value": "hugo-pc"
+    },
+    {
+      "name": "thread",
+      "value": "5348@hugo-pc.TestNG-tests-2(19)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "test2",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1665678662148,
+  "stop": 1665678662148
+}

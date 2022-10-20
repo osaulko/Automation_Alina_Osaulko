@@ -1,1 +1,14 @@
-{"uuid":"26ccfa01-2515-430f-aa87-25842001f24c","name":"Lecture4.Lecture4_1","children":["023a291f-eca1-472f-ada7-131a2802ecb9","c6e3bfc7-0e7e-413a-b224-7ba1a457743b","e16ebf7a-820f-4336-b18d-e49f6e1a453d","a9a1778b-8fb9-40d3-a484-8dbe0508f6f3"],"befores":[],"afters":[],"start":1665514376978,"stop":1665514377998}
+{
+  "uuid": "26ccfa01-2515-430f-aa87-25842001f24c",
+  "name": "Lecture4.Lecture4_1",
+  "children": [
+    "023a291f-eca1-472f-ada7-131a2802ecb9",
+    "c6e3bfc7-0e7e-413a-b224-7ba1a457743b",
+    "e16ebf7a-820f-4336-b18d-e49f6e1a453d",
+    "a9a1778b-8fb9-40d3-a484-8dbe0508f6f3"
+  ],
+  "befores": [],
+  "afters": [],
+  "start": 1665514376978,
+  "stop": 1665514377998
+}

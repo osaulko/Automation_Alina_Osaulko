@@ -1,1 +1,38 @@
-{"uuid":"db941e53-68fd-4c38-a4c0-13cd40fae2bb","name":"Automation_Alina_Osaulko","children":["28e08b04-0073-4a9e-b908-78e30220b440","39281380-0443-4cf8-85b4-52d84a353c74","9b00cc6a-ac81-45ad-b950-3a5c4750c62f","a8e18aef-d388-4f15-9030-d31d441959df"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1665514099651,"stop":1665514114586}],"afters":[{"name":"stop","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1665514123339,"stop":1665514124063}],"start":1665514099512,"stop":1665514124063}
+{
+  "uuid": "db941e53-68fd-4c38-a4c0-13cd40fae2bb",
+  "name": "Automation_Alina_Osaulko",
+  "children": [
+    "28e08b04-0073-4a9e-b908-78e30220b440",
+    "39281380-0443-4cf8-85b4-52d84a353c74",
+    "9b00cc6a-ac81-45ad-b950-3a5c4750c62f",
+    "a8e18aef-d388-4f15-9030-d31d441959df"
+  ],
+  "befores": [
+    {
+      "name": "setUp",
+      "status": "passed",
+      "stage": "finished",
+      "description": "",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1665514099651,
+      "stop": 1665514114586
+    }
+  ],
+  "afters": [
+    {
+      "name": "stop",
+      "status": "passed",
+      "stage": "finished",
+      "description": "",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1665514123339,
+      "stop": 1665514124063
+    }
+  ],
+  "start": 1665514099512,
+  "stop": 1665514124063
+}

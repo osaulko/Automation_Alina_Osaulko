@@ -1,1 +1,11 @@
-{"uuid":"b2736e0b-aeab-430a-b62c-aacbc3fef1c5","name":"Lecture_8.Lecture8_1","children":["f49580de-7569-4506-9ee5-3d51a39140e2"],"befores":[],"afters":[],"start":1665938301350,"stop":1665938343681}
+{
+  "uuid": "b2736e0b-aeab-430a-b62c-aacbc3fef1c5",
+  "name": "Lecture_8.Lecture8_1",
+  "children": [
+    "f49580de-7569-4506-9ee5-3d51a39140e2"
+  ],
+  "befores": [],
+  "afters": [],
+  "start": 1665938301350,
+  "stop": 1665938343681
+}

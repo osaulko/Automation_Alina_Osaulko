@@ -1,1 +1,11 @@
-{"uuid":"ea970f5f-d55e-4271-ad5a-d87c3ef96fd8","name":"Lecture 9 test 1.2","children":["1c4cc14f-89a3-409f-a265-cbb29c97b27e"],"befores":[],"afters":[],"start":1665678661381,"stop":1665678662180}
+{
+  "uuid": "ea970f5f-d55e-4271-ad5a-d87c3ef96fd8",
+  "name": "Lecture 9 test 1.2",
+  "children": [
+    "1c4cc14f-89a3-409f-a265-cbb29c97b27e"
+  ],
+  "befores": [],
+  "afters": [],
+  "start": 1665678661381,
+  "stop": 1665678662180
+}

@@ -1,1 +1,78 @@
-{"uid":"17f4869f21d8ce16","name":"test1","fullName":"Lecture4.Lecture4_1.test1","historyId":"e27980198bc71def851ec1deae79e30e","time":{"start":1665514377491,"stop":1665514377528,"duration":37},"status":"passed","flaky":false,"newFailed":false,"newBroken":false,"newPassed":false,"retriesCount":0,"retriesStatusChange":false,"beforeStages":[],"afterStages":[],"labels":[{"name":"package","value":"Lecture4.Lecture4_1"},{"name":"testClass","value":"Lecture4.Lecture4_1"},{"name":"testMethod","value":"test1"},{"name":"parentSuite","value":"Default Suite"},{"name":"suite","value":"Automation_Alina_Osaulko"},{"name":"subSuite","value":"Lecture4.Lecture4_1"},{"name":"host","value":"hugo-pc"},{"name":"thread","value":"8416@hugo-pc.main(1)"},{"name":"framework","value":"testng"},{"name":"language","value":"java"},{"name":"resultFormat","value":"allure2"}],"parameters":[],"links":[],"hidden":false,"retry":false,"extra":{"severity":"normal","retries":[],"categories":[],"tags":[]},"source":"17f4869f21d8ce16.json","parameterValues":[]}
+{
+  "uid": "17f4869f21d8ce16",
+  "name": "test1",
+  "fullName": "Lecture4.Lecture4_1.test1",
+  "historyId": "e27980198bc71def851ec1deae79e30e",
+  "time": {
+    "start": 1665514377491,
+    "stop": 1665514377528,
+    "duration": 37
+  },
+  "status": "passed",
+  "flaky": false,
+  "newFailed": false,
+  "newBroken": false,
+  "newPassed": false,
+  "retriesCount": 0,
+  "retriesStatusChange": false,
+  "beforeStages": [],
+  "afterStages": [],
+  "labels": [
+    {
+      "name": "package",
+      "value": "Lecture4.Lecture4_1"
+    },
+    {
+      "name": "testClass",
+      "value": "Lecture4.Lecture4_1"
+    },
+    {
+      "name": "testMethod",
+      "value": "test1"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default Suite"
+    },
+    {
+      "name": "suite",
+      "value": "Automation_Alina_Osaulko"
+    },
+    {
+      "name": "subSuite",
+      "value": "Lecture4.Lecture4_1"
+    },
+    {
+      "name": "host",
+      "value": "hugo-pc"
+    },
+    {
+      "name": "thread",
+      "value": "8416@hugo-pc.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    },
+    {
+      "name": "resultFormat",
+      "value": "allure2"
+    }
+  ],
+  "parameters": [],
+  "links": [],
+  "hidden": false,
+  "retry": false,
+  "extra": {
+    "severity": "normal",
+    "retries": [],
+    "categories": [],
+    "tags": []
+  },
+  "source": "17f4869f21d8ce16.json",
+  "parameterValues": []
+}

@@ -1,1 +1,11 @@
-{"uuid":"55d2eb5f-24a1-4344-a537-ef6e2ff99737","name":"Default Suite","children":["60e0d125-df2c-46b3-b227-55f529db2391"],"befores":[],"afters":[],"start":1665514376920,"stop":1665514378007}
+{
+  "uuid": "55d2eb5f-24a1-4344-a537-ef6e2ff99737",
+  "name": "Default Suite",
+  "children": [
+    "60e0d125-df2c-46b3-b227-55f529db2391"
+  ],
+  "befores": [],
+  "afters": [],
+  "start": 1665514376920,
+  "stop": 1665514378007
+}

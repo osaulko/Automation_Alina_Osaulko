@@ -1,1 +1,70 @@
-{"uuid":"b79fbde2-f4c5-4a02-920d-5e9513f9e192","historyId":"6f208079bd8c7fea645bc7180eecb552","fullName":"HomeWork9.Task9_1Test.login","labels":[{"name":"package","value":"HomeWork9.Task9_1Test"},{"name":"testClass","value":"HomeWork9.Task9_1Test"},{"name":"testMethod","value":"login"},{"name":"parentSuite","value":"Default Suite"},{"name":"suite","value":"Automation_Alina_Osaulko"},{"name":"subSuite","value":"HomeWork9.Task9_1Test"},{"name":"host","value":"hugo-pc"},{"name":"thread","value":"544@hugo-pc.main(1)"},{"name":"framework","value":"testng"},{"name":"language","value":"java"}],"links":[],"name":"login","status":"passed","statusDetails":{"known":false,"muted":false,"flaky":false},"stage":"finished","steps":[],"attachments":[],"parameters":[{"name":"arg1","value":"3645769"},{"name":"arg0","value":"problem_user"}],"start":1665514289007,"stop":1665514289494}
+{
+  "uuid": "b79fbde2-f4c5-4a02-920d-5e9513f9e192",
+  "historyId": "6f208079bd8c7fea645bc7180eecb552",
+  "fullName": "HomeWork9.Task9_1Test.login",
+  "labels": [
+    {
+      "name": "package",
+      "value": "HomeWork9.Task9_1Test"
+    },
+    {
+      "name": "testClass",
+      "value": "HomeWork9.Task9_1Test"
+    },
+    {
+      "name": "testMethod",
+      "value": "login"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default Suite"
+    },
+    {
+      "name": "suite",
+      "value": "Automation_Alina_Osaulko"
+    },
+    {
+      "name": "subSuite",
+      "value": "HomeWork9.Task9_1Test"
+    },
+    {
+      "name": "host",
+      "value": "hugo-pc"
+    },
+    {
+      "name": "thread",
+      "value": "544@hugo-pc.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "login",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [
+    {
+      "name": "arg1",
+      "value": "3645769"
+    },
+    {
+      "name": "arg0",
+      "value": "problem_user"
+    }
+  ],
+  "start": 1665514289007,
+  "stop": 1665514289494
+}

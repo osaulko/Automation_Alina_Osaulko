@@ -1,1 +1,35 @@
-{"uuid":"7d719b7e-6cb1-4245-8666-5dbb6ea8a1ab","name":"Lecture 10","children":["7fa16e96-812f-4cde-91c5-20b66fc8b8e3"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1665943107706,"stop":1665943119765}],"afters":[{"name":"stop","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1665943128158,"stop":1665943130183}],"start":1665943107621,"stop":1665943130184}
+{
+  "uuid": "7d719b7e-6cb1-4245-8666-5dbb6ea8a1ab",
+  "name": "Lecture 10",
+  "children": [
+    "7fa16e96-812f-4cde-91c5-20b66fc8b8e3"
+  ],
+  "befores": [
+    {
+      "name": "setUp",
+      "status": "passed",
+      "stage": "finished",
+      "description": "",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1665943107706,
+      "stop": 1665943119765
+    }
+  ],
+  "afters": [
+    {
+      "name": "stop",
+      "status": "passed",
+      "stage": "finished",
+      "description": "",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1665943128158,
+      "stop": 1665943130183
+    }
+  ],
+  "start": 1665943107621,
+  "stop": 1665943130184
+}

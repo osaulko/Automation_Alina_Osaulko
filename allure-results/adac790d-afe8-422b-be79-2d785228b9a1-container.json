@@ -1,1 +1,36 @@
-{"uuid":"adac790d-afe8-422b-be79-2d785228b9a1","name":"Automation_Alina_Osaulko","children":["ac51f24e-039d-4131-838f-b9fbc8ac98ef","b2826e00-6d44-4499-9eae-f81c7fa3913f"],"befores":[{"name":"beforeTest","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1665516021390,"stop":1665516021390}],"afters":[{"name":"afterTest","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1665516021983,"stop":1665516021983}],"start":1665516021375,"stop":1665516021983}
+{
+  "uuid": "adac790d-afe8-422b-be79-2d785228b9a1",
+  "name": "Automation_Alina_Osaulko",
+  "children": [
+    "ac51f24e-039d-4131-838f-b9fbc8ac98ef",
+    "b2826e00-6d44-4499-9eae-f81c7fa3913f"
+  ],
+  "befores": [
+    {
+      "name": "beforeTest",
+      "status": "passed",
+      "stage": "finished",
+      "description": "",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1665516021390,
+      "stop": 1665516021390
+    }
+  ],
+  "afters": [
+    {
+      "name": "afterTest",
+      "status": "passed",
+      "stage": "finished",
+      "description": "",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1665516021983,
+      "stop": 1665516021983
+    }
+  ],
+  "start": 1665516021375,
+  "stop": 1665516021983
+}

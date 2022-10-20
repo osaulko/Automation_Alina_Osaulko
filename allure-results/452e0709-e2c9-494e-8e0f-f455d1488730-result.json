@@ -1,1 +1,70 @@
-{"uuid":"452e0709-e2c9-494e-8e0f-f455d1488730","historyId":"1ccb1626d8d38b802730845b4ac8884e","fullName":"HomeWork9.Task9_1Test.login","labels":[{"name":"package","value":"HomeWork9.Task9_1Test"},{"name":"testClass","value":"HomeWork9.Task9_1Test"},{"name":"testMethod","value":"login"},{"name":"parentSuite","value":"Default Suite"},{"name":"suite","value":"Automation_Alina_Osaulko"},{"name":"subSuite","value":"HomeWork9.Task9_1Test"},{"name":"host","value":"hugo-pc"},{"name":"thread","value":"3340@hugo-pc.main(1)"},{"name":"framework","value":"testng"},{"name":"language","value":"java"}],"links":[],"name":"login","status":"passed","statusDetails":{"known":false,"muted":false,"flaky":false},"stage":"finished","steps":[],"attachments":[],"parameters":[{"name":"arg1","value":"secret_sauce"},{"name":"arg0","value":"standard_user"}],"start":1665514211914,"stop":1665514212953}
+{
+  "uuid": "452e0709-e2c9-494e-8e0f-f455d1488730",
+  "historyId": "1ccb1626d8d38b802730845b4ac8884e",
+  "fullName": "HomeWork9.Task9_1Test.login",
+  "labels": [
+    {
+      "name": "package",
+      "value": "HomeWork9.Task9_1Test"
+    },
+    {
+      "name": "testClass",
+      "value": "HomeWork9.Task9_1Test"
+    },
+    {
+      "name": "testMethod",
+      "value": "login"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default Suite"
+    },
+    {
+      "name": "suite",
+      "value": "Automation_Alina_Osaulko"
+    },
+    {
+      "name": "subSuite",
+      "value": "HomeWork9.Task9_1Test"
+    },
+    {
+      "name": "host",
+      "value": "hugo-pc"
+    },
+    {
+      "name": "thread",
+      "value": "3340@hugo-pc.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    }
+  ],
+  "links": [],
+  "name": "login",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [
+    {
+      "name": "arg1",
+      "value": "secret_sauce"
+    },
+    {
+      "name": "arg0",
+      "value": "standard_user"
+    }
+  ],
+  "start": 1665514211914,
+  "stop": 1665514212953
+}

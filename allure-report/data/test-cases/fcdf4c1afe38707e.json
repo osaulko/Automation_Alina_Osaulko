@@ -1,0 +1,143 @@
+{
+  "uid": "fcdf4c1afe38707e",
+  "name": "dataProviderTask",
+  "fullName": "HomeWork9.Task9_3Test.dataProviderTask",
+  "historyId": "cfb8d7912afd1adc6177abffc9e19e09",
+  "time": {
+    "start": 1665514119883,
+    "stop": 1665514120674,
+    "duration": 791
+  },
+  "status": "passed",
+  "flaky": false,
+  "newFailed": false,
+  "newBroken": false,
+  "newPassed": false,
+  "retriesCount": 0,
+  "retriesStatusChange": false,
+  "beforeStages": [
+    {
+      "name": "setUp",
+      "time": {
+        "start": 1665514099651,
+        "stop": 1665514114586,
+        "duration": 14935
+      },
+      "description": "",
+      "status": "passed",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "attachmentsCount": 0,
+      "shouldDisplayMessage": false,
+      "stepsCount": 0,
+      "hasContent": false
+    },
+    {
+      "name": "preconditions",
+      "time": {
+        "start": 1665514119142,
+        "stop": 1665514119877,
+        "duration": 735
+      },
+      "description": "",
+      "status": "passed",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "attachmentsCount": 0,
+      "shouldDisplayMessage": false,
+      "stepsCount": 0,
+      "hasContent": false
+    }
+  ],
+  "afterStages": [
+    {
+      "name": "stop",
+      "time": {
+        "start": 1665514123339,
+        "stop": 1665514124063,
+        "duration": 724
+      },
+      "description": "",
+      "status": "passed",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "attachmentsCount": 0,
+      "shouldDisplayMessage": false,
+      "stepsCount": 0,
+      "hasContent": false
+    }
+  ],
+  "labels": [
+    {
+      "name": "package",
+      "value": "HomeWork9.Task9_3Test"
+    },
+    {
+      "name": "testClass",
+      "value": "HomeWork9.Task9_3Test"
+    },
+    {
+      "name": "testMethod",
+      "value": "dataProviderTask"
+    },
+    {
+      "name": "parentSuite",
+      "value": "Default Suite"
+    },
+    {
+      "name": "suite",
+      "value": "Automation_Alina_Osaulko"
+    },
+    {
+      "name": "subSuite",
+      "value": "HomeWork9.Task9_3Test"
+    },
+    {
+      "name": "host",
+      "value": "hugo-pc"
+    },
+    {
+      "name": "thread",
+      "value": "8956@hugo-pc.main(1)"
+    },
+    {
+      "name": "framework",
+      "value": "testng"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    },
+    {
+      "name": "resultFormat",
+      "value": "allure2"
+    }
+  ],
+  "parameters": [
+    {
+      "name": "arg0",
+      "value": "Sauce Labs Bike Light"
+    },
+    {
+      "name": "arg1",
+      "value": "$9.99"
+    }
+  ],
+  "links": [],
+  "hidden": false,
+  "retry": false,
+  "extra": {
+    "severity": "normal",
+    "retries": [],
+    "categories": [],
+    "tags": []
+  },
+  "source": "fcdf4c1afe38707e.json",
+  "parameterValues": [
+    "Sauce Labs Bike Light",
+    "$9.99"
+  ]
+}

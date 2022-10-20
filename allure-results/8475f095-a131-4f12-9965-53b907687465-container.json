@@ -1,1 +1,24 @@
-{"uuid":"8475f095-a131-4f12-9965-53b907687465","name":"HomeWork9.Task9_1Test.preconditions","children":["8b0727a1-3782-4f99-8b31-7830b16ef19c"],"description":"","befores":[{"name":"preconditions","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1665514160667,"stop":1665514161435}],"afters":[],"start":1665514160667,"stop":1665514161436}
+{
+  "uuid": "8475f095-a131-4f12-9965-53b907687465",
+  "name": "HomeWork9.Task9_1Test.preconditions",
+  "children": [
+    "8b0727a1-3782-4f99-8b31-7830b16ef19c"
+  ],
+  "description": "",
+  "befores": [
+    {
+      "name": "preconditions",
+      "status": "passed",
+      "stage": "finished",
+      "description": "",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1665514160667,
+      "stop": 1665514161435
+    }
+  ],
+  "afters": [],
+  "start": 1665514160667,
+  "stop": 1665514161436
+}
